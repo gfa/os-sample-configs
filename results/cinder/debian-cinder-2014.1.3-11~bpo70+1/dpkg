@@ -1,0 +1,10 @@
+ii  python-cinderclient             1:1.0.8-1~bpo70+1            all          python bindings to the OpenStack Volume API
+ii  python-librabbitmq              1.0.1-1~bpo70+1              amd64        AMQP Client using the rabbitmq-c library
+ii  python-libvirt                  1.2.1-2~bpo70+1              amd64        libvirt Python bindings
+ii  python-oslo.config              1:1.4.0.0~a3-2~bpo70+1       all          Common code for Openstack Projects (configuration API) - Python 2.x
+ii  python-oslo.messaging           1.4.0.0~a4-1~bpo70+1         all          oslo messaging library
+ii  python-oslo.rootwrap            1.2.0-1~bpo70+1              all          allows fine filtering of shell commands to run as root
+ii  python-oslosphinx               2.1.0-1~bpo70+1              all          theme and extension support for openstack
+ii  python-oslotest                 1.0.0-2~bpo70+1              all          OpenStack test framework - Python 2.x
+ii  python-qpid                     0.16-1                       all          Python bindings for qpid/mlib
+ii  python-zmq                      2.2.0-1                      amd64        Python bindings for 0MQ library

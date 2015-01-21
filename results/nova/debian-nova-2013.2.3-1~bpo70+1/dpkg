@@ -1,0 +1,7 @@
+ii  python-librabbitmq               1.0.1-1~bpo70+1              amd64        AMQP Client using the rabbitmq-c library
+ii  python-libvirt                   1.2.1-2~bpo70+1              amd64        libvirt Python bindings
+ii  python-novaclient                2:2.15.0-3~bpo70+1           all          client library for OpenStack Compute API
+ii  python-oslo.config               1:1.2.1-1~bpo70+1            all          Common code for Openstack Projects (configuration API)
+ii  python-oslo.sphinx               1.0-2~bpo70+1                all          theme and extension support for openstack
+ii  python-qpid                      0.16-1                       all          Python bindings for qpid/mlib
+ii  python-zmq                       2.2.0-1                      amd64        Python bindings for 0MQ library

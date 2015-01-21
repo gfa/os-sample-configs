@@ -1,0 +1,520 @@
++++-===============================-============================-============-==============================================================================
+Desired=Unknown/Install/Remove/Purge/Hold
+ii  adduser                         3.113+nmu3                   all          add and remove users and groups
+ii  alembic                         0.6.5+ds-1~bpo70+1           all          lightweight database migration tool for SQLAlchemy
+ii  apt                             0.9.7.9+deb7u7               amd64        commandline package manager
+ii  apt-utils                       0.9.7.9+deb7u7               amd64        package managment related utility programs
+ii  aptitude                        0.6.8.2-1                    amd64        terminal-based package manager
+ii  aptitude-common                 0.6.8.2-1                    all          architecture indepedent files for the aptitude package manager
+ii  augeas-lenses                   0.10.0-1                     all          Set of lenses needed by libaugeas0 to parse config files
+ii  base-files                      7.1wheezy8                   amd64        Debian base system miscellaneous files
+ii  base-passwd                     3.5.26                       amd64        Debian base system master password and group files
+ii  bash                            4.2+dfsg-0.1+deb7u3          amd64        GNU Bourne Again SHell
+ii  binutils                        2.22-8+deb7u2                amd64        GNU assembler, linker and binary utilities
+ii  bpython                         0.11-1                       all          fancy interface to the Python interpreter - Curses frontend
+ii  bsdmainutils                    9.0.3                        amd64        collection of more utilities from FreeBSD
+ii  bsdutils                        1:2.20.1-5.3                 amd64        Basic utilities from 4.4BSD-Lite
+ii  build-essential                 11.5                         amd64        Informational list of build-essential packages
+ii  bzip2                           1.0.6-4                      amd64        high-quality block-sorting file compressor - utilities
+ii  ca-certificates                 20130119+deb7u1              all          Common CA certificates
+ii  consolekit                      0.4.5-3.1                    amd64        framework for defining and tracking users, sessions and seats
+ii  coreutils                       8.13-3.5                     amd64        GNU core utilities
+ii  cpio                            2.11+dfsg-0.1+deb7u1         amd64        GNU cpio -- a program to manage archives of files
+ii  cpp                             4:4.7.2-1                    amd64        GNU C preprocessor (cpp)
+ii  cpp-4.7                         4.7.2-5                      amd64        GNU C preprocessor
+ii  cron                            3.0pl1-124                   amd64        process scheduling daemon
+ii  dash                            0.5.7-3                      amd64        POSIX-compliant shell
+ii  dbus                            1.6.8-1+deb7u5               amd64        simple interprocess messaging system (daemon and utilities)
+ii  debconf                         1.5.49                       all          Debian configuration management system
+ii  debconf-i18n                    1.5.49                       all          full internationalization support for debconf
+ii  debhelper                       9.20120909                   all          helper programs for debian/rules
+ii  debian-archive-keyring          2014.3~deb7u1                all          GnuPG archive keys of the Debian archive
+ii  debianutils                     4.3.2                        amd64        Miscellaneous utilities specific to Debian
+ii  dh-python                       1.20131021-1~bpo70+1         all          Debian helper tools for packaging Python libraries and applications
+ii  dh-systemd                      1.18~bpo70+1                 all          debhelper add-on to handle systemd unit files
+ii  diffutils                       1:3.2-6                      amd64        File comparison utilities
+ii  dmidecode                       2.11-9                       amd64        SMBIOS/DMI table decoder
+ii  dmsetup                         2:1.02.74-8                  amd64        Linux Kernel Device Mapper userspace library
+ii  docutils-common                 0.10-3~bpo70+1               all          text processing system for reStructuredText - common data
+ii  dpkg                            1.16.15                      amd64        Debian package management system
+ii  dpkg-dev                        1.16.15                      all          Debian package development tools
+ii  e2fslibs:amd64                  1.42.5-1.1                   amd64        ext2/ext3/ext4 file system libraries
+ii  e2fsprogs                       1.42.5-1.1                   amd64        ext2/ext3/ext4 file system utilities
+ii  eatmydata                       26-2                         amd64        library and utilities designed to disable fsync and friends
+ii  euca2ools                       2.0.2-1                      all          managing cloud instances for Eucalyptus
+ii  fakeroot                        1.18.4-2                     amd64        tool for simulating superuser privileges
+ii  file                            5.11-2+deb7u7                amd64        Determines file type using "magic" numbers
+ii  findutils                       4.4.2-4                      amd64        utilities for finding files--find, xargs
+ii  g++                             4:4.7.2-1                    amd64        GNU C++ compiler
+ii  g++-4.7                         4.7.2-5                      amd64        GNU C++ compiler
+ii  gcc                             4:4.7.2-1                    amd64        GNU C compiler
+ii  gcc-4.7                         4.7.2-5                      amd64        GNU C compiler
+ii  gcc-4.7-base:amd64              4.7.2-5                      amd64        GCC, the GNU Compiler Collection (base package)
+ii  gettext                         0.18.1.1-9                   amd64        GNU Internationalization utilities
+ii  gettext-base                    0.18.1.1-9                   amd64        GNU Internationalization utilities for the base system
+ii  gnupg                           1.4.12-7+deb7u6              amd64        GNU privacy guard - a free PGP replacement
+ii  gpgv                            1.4.12-7+deb7u6              amd64        GNU privacy guard - signature verification tool
+ii  grep                            2.12-2                       amd64        GNU grep, egrep and fgrep
+ii  groff-base                      1.21-9                       amd64        GNU troff text-formatting system (base system components)
+ii  gzip                            1.5-1.1                      amd64        GNU compression utilities
+ii  hostname                        3.11                         amd64        utility to set/show the host name or domain name
+ii  html2text                       1.3.2a-15                    amd64        advanced HTML to text converter
+ii  ieee-data                       20140828.1~bpo70+1           all          OUI and IAB listings
+ii  ifupdown                        0.7.8                        amd64        high level tools to configure network interfaces
+ii  info                            4.13a.dfsg.1-10              amd64        Standalone GNU Info documentation browser
+ii  init-system-helpers             1.18~bpo70+1                 all          helper tools for all init systems
+ii  initscripts                     2.88dsf-41+deb7u1            amd64        scripts for initializing and shutting down the system
+ii  insserv                         1.14.0-5                     amd64        boot sequence organizer using LSB init.d script dependency information
+ii  install-info                    4.13a.dfsg.1-10              amd64        Manage installed documentation in info format
+ii  intltool-debian                 0.35.0+20060710.1            all          Help i18n of RFC822 compliant config files
+ii  iproute                         20120521-3+b3                amd64        networking and traffic control tools
+ii  iptables                        1.4.14-3.1                   amd64        administration tools for packet filtering and NAT
+ii  iputils-ping                    3:20101006-1+b1              amd64        Tools to test the reachability of network hosts
+ii  ipxe-qemu                       1.0.0+git-20120202.f6840ba-3 all          PXE boot firmware - ROM images for qemu
+ii  ipython                         0.13.1-2+deb7u1              all          enhanced interactive Python shell
+ii  isc-dhcp-client                 4.2.2.dfsg.1-5+deb70u6       amd64        ISC DHCP client
+ii  isc-dhcp-common                 4.2.2.dfsg.1-5+deb70u6       amd64        common files used by all the isc-dhcp* packages
+ii  kmod                            9-3                          amd64        tools for managing Linux kernel modules
+ii  krb5-locales                    1.10.1+dfsg-5+deb7u2         all          Internationalization support for MIT Kerberos
+ii  libacl1:amd64                   2.2.51-8                     amd64        Access control list shared library
+ii  libaio1:amd64                   0.3.109-3                    amd64        Linux kernel AIO access library - shared library
+ii  libalgorithm-diff-perl          1.19.02-2                    all          module to find differences between files
+ii  libalgorithm-diff-xs-perl       0.04-2+b1                    amd64        module to find differences between files (XS accelerated)
+ii  libalgorithm-merge-perl         0.08-2                       all          Perl module for three-way merge of textual data
+ii  libapparmor1                    2.7.103-4                    amd64        changehat AppArmor library
+ii  libapt-inst1.5:amd64            0.9.7.9+deb7u7               amd64        deb package format runtime library
+ii  libapt-pkg4.12:amd64            0.9.7.9+deb7u7               amd64        package managment runtime library
+ii  libasound2:amd64                1.0.25-4                     amd64        shared library for ALSA applications
+ii  libasprintf0c2:amd64            0.18.1.1-9                   amd64        GNU library to use fprintf and friends in C++
+ii  libasyncns0:amd64               0.8-4                        amd64        Asynchronous name service query library
+ii  libattr1:amd64                  1:2.4.46-8                   amd64        Extended attribute shared library
+ii  libaudit0                       1:1.7.18-1.1                 amd64        Dynamic library for security auditing
+ii  libaugeas0                      0.10.0-1                     amd64        Augeas configuration editing library and API
+ii  libavahi-client3:amd64          0.6.31-2                     amd64        Avahi client library
+ii  libavahi-common-data:amd64      0.6.31-2                     amd64        Avahi common data files
+ii  libavahi-common3:amd64          0.6.31-2                     amd64        Avahi common library
+ii  libblas3                        1.2.20110419-5               amd64        Basic Linear Algebra Reference implementations, shared library
+ii  libblkid1:amd64                 2.20.1-5.3                   amd64        block device id library
+ii  libbluetooth3:amd64             4.99-2                       amd64        Library to use the BlueZ Linux Bluetooth stack
+ii  libboost-iostreams1.49.0        1.49.0-3.2                   amd64        Boost.Iostreams Library
+ii  libboost-thread1.49.0           1.49.0-3.2                   amd64        portable C++ multi-threading
+ii  libbrlapi0.5:amd64              4.4-10+deb7u1                amd64        braille display access via BRLTTY - shared library
+ii  libbsd0:amd64                   0.4.2-1                      amd64        utility functions from BSD systems - shared library
+ii  libbz2-1.0:amd64                1.0.6-4                      amd64        high-quality block-sorting file compressor library - runtime
+ii  libc-bin                        2.13-38+deb7u6               amd64        Embedded GNU C Library: Binaries
+ii  libc-dev-bin                    2.13-38+deb7u6               amd64        Embedded GNU C Library: Development binaries
+ii  libc6-dev:amd64                 2.13-38+deb7u6               amd64        Embedded GNU C Library: Development Libraries and Header Files
+ii  libc6:amd64                     2.13-38+deb7u6               amd64        Embedded GNU C Library: Shared libraries
+ii  libcaca0:amd64                  0.99.beta18-1                amd64        colour ASCII art library
+ii  libcap-ng0                      0.6.6-2                      amd64        An alternate POSIX capabilities library
+ii  libcap2:amd64                   1:2.22-1.2                   amd64        support for getting/setting POSIX.1e capabilities
+ii  libck-connector0:amd64          0.4.5-3.1                    amd64        ConsoleKit libraries
+ii  libclass-isa-perl               0.36-3                       all          report the search path for a class's ISA tree
+ii  libcomerr2:amd64                1.42.5-1.1                   amd64        common error description library
+ii  libcroco3:amd64                 0.6.6-2                      amd64        Cascading Style Sheet (CSS) parsing and manipulation toolkit
+ii  libcurl3-gnutls:amd64           7.26.0-1+wheezy12            amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii  libcwidget3                     0.5.16-3.4                   amd64        high-level terminal interface library for C++ (runtime files)
+ii  libdb5.1:amd64                  5.1.29-5                     amd64        Berkeley v5.1 Database Libraries [runtime]
+ii  libdbus-1-3:amd64               1.6.8-1+deb7u5               amd64        simple interprocess messaging system (library)
+ii  libdbus-glib-1-2:amd64          0.100.2-1                    amd64        simple interprocess messaging system (GLib-based shared library)
+ii  libdevmapper-event1.02.1:amd64  2:1.02.74-8                  amd64        Linux Kernel Device Mapper event support library
+ii  libdevmapper1.02.1:amd64        2:1.02.74-8                  amd64        Linux Kernel Device Mapper userspace library
+ii  libdirectfb-1.2-9:amd64         1.2.10.0-5                   amd64        direct frame buffer graphics - shared libraries
+ii  libdpkg-perl                    1.16.15                      all          Dpkg perl modules
+ii  libedit2:amd64                  2.11-20080614-5              amd64        BSD editline and history libraries
+ii  libept1.4.12                    1.0.9                        amd64        High-level library for managing Debian package information
+ii  libexpat1-dev                   2.1.0-1+deb7u1               amd64        XML parsing C library - development kit
+ii  libexpat1:amd64                 2.1.0-1+deb7u1               amd64        XML parsing C library - runtime library
+ii  libfdt1                         1.3.0-4                      amd64        Flat Device Trees manipulation library
+ii  libffi5:amd64                   3.0.10-3                     amd64        Foreign Function Interface library runtime
+ii  libfile-fcntllock-perl          0.14-2                       amd64        Perl module for file locking with fcntl(2)
+ii  libflac8:amd64                  1.2.1-6+deb7u1               amd64        Free Lossless Audio Codec - runtime C library
+ii  libfuse2:amd64                  2.9.0-2+deb7u1               amd64        Filesystem in Userspace (library)
+ii  libgcc1:amd64                   1:4.7.2-5                    amd64        GCC support library
+ii  libgcrypt11:amd64               1.5.0-5+deb7u2               amd64        LGPL Crypto library - runtime library
+ii  libgdbm3:amd64                  1.8.3-11                     amd64        GNU dbm database routines (runtime version)
+ii  libgettextpo0:amd64             0.18.1.1-9                   amd64        GNU Internationalization library
+ii  libgfortran3:amd64              4.7.2-5                      amd64        Runtime library for GNU Fortran applications
+ii  libglib2.0-0:amd64              2.33.12+really2.32.4-5       amd64        GLib library of C routines
+ii  libglib2.0-data                 2.33.12+really2.32.4-5       all          Common files for GLib library
+ii  libgmp10:amd64                  2:5.0.5+dfsg-2               amd64        Multiprecision arithmetic library
+ii  libgnutls26:amd64               2.12.20-8+deb7u2             amd64        GNU TLS library - runtime library
+ii  libgomp1:amd64                  4.7.2-5                      amd64        GCC OpenMP (GOMP) support library
+ii  libgpg-error0:amd64             1.10-3.1                     amd64        library for common error values and messages in GnuPG components
+ii  libgssapi-krb5-2:amd64          1.10.1+dfsg-5+deb7u2         amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii  libice6:amd64                   2:1.0.8-2                    amd64        X11 Inter-Client Exchange library
+ii  libidn11:amd64                  1.25-2                       amd64        GNU Libidn library, implementation of IETF IDN specifications
+ii  libiscsi1:amd64                 1.4.0-3                      amd64        iSCSI client shared library
+ii  libitm1:amd64                   4.7.2-5                      amd64        GNU Transactional Memory Library
+ii  libjpeg8:amd64                  8d-1+deb7u1                  amd64        Independent JPEG Group's JPEG runtime library
+ii  libjs-jquery                    1.7.2+dfsg-1                 all          JavaScript library for dynamic web applications
+ii  libjs-sphinxdoc                 1.2.2+dfsg-2~bpo70+1         all          JavaScript support for Sphinx documentation
+ii  libjs-underscore                1.4.4-2~bpo70+1              all          JavaScript's functional programming helper library
+ii  libjson0:amd64                  0.10-1.2                     amd64        JSON manipulation library - shared library
+ii  libk5crypto3:amd64              1.10.1+dfsg-5+deb7u2         amd64        MIT Kerberos runtime libraries - Crypto Library
+ii  libkeyutils1:amd64              1.5.5-3+deb7u1               amd64        Linux Key Management Utilities (library)
+ii  libkmod2:amd64                  9-3                          amd64        libkmod shared library
+ii  libkrb5-3:amd64                 1.10.1+dfsg-5+deb7u2         amd64        MIT Kerberos runtime libraries
+ii  libkrb5support0:amd64           1.10.1+dfsg-5+deb7u2         amd64        MIT Kerberos runtime libraries - Support library
+ii  liblapack3                      3.4.1+dfsg-1+deb70u1         amd64        Library of linear algebra routines 3 - shared version
+ii  libldap-2.4-2:amd64             2.4.31-1+nmu2                amd64        OpenLDAP libraries
+ii  liblocale-gettext-perl          1.05-7+b1                    amd64        module using libc functions for internationalization in Perl
+ii  liblzma5:amd64                  5.1.1alpha+20120614-2        amd64        XZ-format compression library
+ii  libmagic1:amd64                 5.11-2+deb7u7                amd64        File type determination library using "magic" numbers
+ii  libmount1                       2.20.1-5.3                   amd64        block device id library
+ii  libmpc2:amd64                   0.9-4                        amd64        multiple precision complex floating-point library
+ii  libmpfr4:amd64                  3.1.0-5                      amd64        multiple precision floating-point computation
+ii  libmysqlclient18:amd64          5.5.40-0+wheezy1             amd64        MySQL database client library
+ii  libncurses5:amd64               5.9-10                       amd64        shared libraries for terminal handling
+ii  libncursesw5:amd64              5.9-10                       amd64        shared libraries for terminal handling (wide character support)
+ii  libnetcf1                       0.1.9-2                      amd64        cross-platform network configuration library
+ii  libnewt0.52                     0.52.14-11.1                 amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
+ii  libnfnetlink0                   1.0.0-1.1                    amd64        Netfilter netlink library
+ii  libnl1:amd64                    1.1-7                        amd64        library for dealing with netlink sockets
+ii  libnspr4:amd64                  2:4.9.2-1+deb7u2             amd64        NetScape Portable Runtime Library
+ii  libnss3:amd64                   2:3.14.5-1+deb7u3            amd64        Network Security Service libraries
+ii  libnuma1                        2.0.8~rc4-1                  amd64        Libraries for controlling NUMA policy
+ii  libogg0:amd64                   1.3.0-4                      amd64        Ogg bitstream library
+ii  libp11-kit0:amd64               0.12-3                       amd64        Library for loading and coordinating access to PKCS#11 modules - runtime
+ii  libpam-modules-bin              1.1.3-7.1                    amd64        Pluggable Authentication Modules for PAM - helper binaries
+ii  libpam-modules:amd64            1.1.3-7.1                    amd64        Pluggable Authentication Modules for PAM
+ii  libpam-runtime                  1.1.3-7.1                    all          Runtime support for the PAM library
+ii  libpam0g:amd64                  1.1.3-7.1                    amd64        Pluggable Authentication Modules library
+ii  libparted0debian1:amd64         2.3-12                       amd64        disk partition manipulator - shared library
+ii  libpcap0.8:amd64                1.3.0-1                      amd64        system interface for user-level packet capture
+ii  libpciaccess0:amd64             0.13.1-2                     amd64        Generic PCI access library for X
+ii  libpcre3:amd64                  1:8.30-5                     amd64        Perl 5 Compatible Regular Expression Library - runtime files
+ii  libpgm-5.1-0                    5.1.118-1~dfsg-0.1           amd64        OpenPGM shared library
+ii  libpipeline1:amd64              1.2.1-1                      amd64        pipeline manipulation library
+ii  libpixman-1-0:amd64             0.26.0-4+deb7u1              amd64        pixel-manipulation library for X and cairo
+ii  libpng12-0:amd64                1.2.49-1                     amd64        PNG library - runtime
+ii  libpolkit-agent-1-0:amd64       0.105-3                      amd64        PolicyKit Authentication Agent API
+ii  libpolkit-backend-1-0:amd64     0.105-3                      amd64        PolicyKit backend API
+ii  libpolkit-gobject-1-0:amd64     0.105-3                      amd64        PolicyKit Authorization API
+ii  libpopt0:amd64                  1.16-7                       amd64        lib for parsing cmdline parameters
+ii  libpq5                          9.1.14-0+deb7u1              amd64        PostgreSQL C client library
+ii  libprocps0:amd64                1:3.3.3-3                    amd64        library for accessing process information from /proc
+ii  libpulse0:amd64                 2.0-6.1                      amd64        PulseAudio client libraries
+ii  libpython2.6                    2.6.8-1.1                    amd64        Shared Python runtime library (version 2.6)
+ii  libpython2.7                    2.7.3-6+deb7u2               amd64        Shared Python runtime library (version 2.7)
+ii  libquadmath0:amd64              4.7.2-5                      amd64        GCC Quad-Precision Math Library
+ii  librados2                       0.80.1-1~bpo70+1             amd64        RADOS distributed object store client library
+ii  librbd1                         0.80.1-1~bpo70+1             amd64        RADOS block device client library
+ii  libreadline5:amd64              5.2+dfsg-2~deb7u1            amd64        GNU readline and history libraries, run-time libraries
+ii  libreadline6:amd64              6.2+dfsg-0.1                 amd64        GNU readline and history libraries, run-time libraries
+ii  librtmp0:amd64                  2.4+20111222.git4e06e21-1    amd64        toolkit for RTMP streams (shared library)
+ii  libsasl2-2:amd64                2.1.25.dfsg1-6+deb7u1        amd64        Cyrus SASL - authentication abstraction library
+ii  libsasl2-modules:amd64          2.1.25.dfsg1-6+deb7u1        amd64        Cyrus SASL - pluggable authentication modules
+ii  libsdl1.2debian:amd64           1.2.15-5                     amd64        Simple DirectMedia Layer
+ii  libseccomp2:amd64               2.1.1-1~bpo70+1              amd64        high level interface to Linux seccomp filter
+ii  libselinux1:amd64               2.1.9-5                      amd64        SELinux runtime shared libraries
+ii  libsemanage-common              2.1.6-6                      all          Common files for SELinux policy management libraries
+ii  libsemanage1:amd64              2.1.6-6                      amd64        SELinux policy management library
+ii  libsepol1:amd64                 2.1.4-3                      amd64        SELinux library for manipulating binary security policies
+ii  libsigc++-2.0-0c2a:amd64        2.2.10-0.2                   amd64        type-safe Signal Framework for C++ - runtime
+ii  libslang2:amd64                 2.2.4-15                     amd64        S-Lang programming library - runtime version
+ii  libsm6:amd64                    2:1.2.1-2                    amd64        X11 Session Management library
+ii  libsndfile1:amd64               1.0.25-5                     amd64        Library for reading/writing audio files
+ii  libspice-server1:amd64          0.12.4-0nocelt2~bpo70+1      amd64        Implements the server side of the SPICE protocol
+ii  libsqlite3-0:amd64              3.7.13-1+deb7u1              amd64        SQLite 3 shared library
+ii  libss2:amd64                    1.42.5-1.1                   amd64        command-line interface parsing library
+ii  libssh2-1:amd64                 1.4.2-1.1                    amd64        SSH2 client-side library
+ii  libssl-dev                      1.0.1e-2+deb7u14             amd64        SSL development libraries, header files and documentation
+ii  libssl1.0.0:amd64               1.0.1e-2+deb7u14             amd64        SSL shared libraries
+ii  libstdc++6-4.7-dev              4.7.2-5                      amd64        GNU Standard C++ Library v3 (development files)
+ii  libstdc++6:amd64                4.7.2-5                      amd64        GNU Standard C++ Library v3
+ii  libsubunit-perl                 0.0.18-5~bpo70+1             all          perl parser and diff for Subunit streams
+ii  libswitch-perl                  2.16-2                       all          switch statement for Perl
+ii  libsystemd-daemon0:amd64        44-11+deb7u4                 amd64        systemd utility library
+ii  libsystemd-login0:amd64         44-11+deb7u4                 amd64        systemd login utility library
+ii  libtasn1-3:amd64                2.13-2+deb7u1                amd64        Manage ASN.1 structures (runtime)
+ii  libtext-charwidth-perl          0.04-7+b1                    amd64        get display widths of characters on the terminal
+ii  libtext-iconv-perl              1.7-5                        amd64        converts between character sets in Perl
+ii  libtext-wrapi18n-perl           0.06-7                       all          internationalized substitute of Text::Wrap
+ii  libtimedate-perl                1.2000-1                     all          collection of modules to manipulate date/time information
+ii  libtinfo5:amd64                 5.9-10                       amd64        shared low-level terminfo library for terminal handling
+ii  libts-0.0-0:amd64               1.0-11                       amd64        touch screen library
+ii  libudev0:amd64                  175-7.2                      amd64        libudev shared library
+ii  libunistring0:amd64             0.9.3-5                      amd64        Unicode string library for C
+ii  libusb-0.1-4:amd64              2:0.1.12-20+nmu1             amd64        userspace USB programming library
+ii  libusb-1.0-0:amd64              2:1.0.18-2~bpo70+1           amd64        userspace USB programming library
+ii  libusbredirparser1:amd64        0.6-2~bpo70+1                amd64        Parser for the usbredir protocol (runtime)
+ii  libustr-1.0-1:amd64             1.0.4-3                      amd64        Micro string library: shared library
+ii  libuuid1:amd64                  2.20.1-5.3                   amd64        Universally Unique ID library
+ii  libvdeplug2                     2.3.2-4                      amd64        Virtual Distributed Ethernet - Plug library
+ii  libvirt-clients                 1.2.9-3~bpo70+1              amd64        programs for the libvirt library
+ii  libvirt-daemon                  1.2.9-3~bpo70+1              amd64        programs for the libvirt library
+ii  libvirt-daemon-system           1.2.9-3~bpo70+1              amd64        Libvirt daemon configuration files
+ii  libvirt0                        1.2.9-3~bpo70+1              amd64        library for interfacing with different virtualization systems
+ii  libvorbis0a:amd64               1.3.2-1.3                    amd64        The Vorbis General Audio Compression Codec (Decoder library)
+ii  libvorbisenc2:amd64             1.3.2-1.3                    amd64        The Vorbis General Audio Compression Codec (Encoder library)
+ii  libwrap0:amd64                  7.6.q-24                     amd64        Wietse Venema's TCP wrappers library
+ii  libx11-6:amd64                  2:1.5.0-1+deb7u1             amd64        X11 client-side library
+ii  libx11-data                     2:1.5.0-1+deb7u1             all          X11 client-side library
+ii  libx11-xcb1:amd64               2:1.5.0-1+deb7u1             amd64        Xlib/XCB interface library
+ii  libxapian22                     1.2.12-2                     amd64        Search engine library
+ii  libxau6:amd64                   1:1.0.7-1                    amd64        X11 authorisation library
+ii  libxcb1:amd64                   1.8.1-2+deb7u1               amd64        X C Binding
+ii  libxdmcp6:amd64                 1:1.1.1-1                    amd64        X11 Display Manager Control Protocol library
+ii  libxen-4.1                      4.1.4-3+deb7u3               amd64        Public libs for Xen
+ii  libxenstore3.0:amd64            4.4.0-5~bpo70+1              amd64        Xenstore communications library for Xen
+ii  libxext6:amd64                  2:1.3.1-2+deb7u1             amd64        X11 miscellaneous extension library
+ii  libxi6:amd64                    2:1.6.1-1+deb7u1             amd64        X11 Input extension library
+ii  libxml2-utils                   2.8.0+dfsg1-7+wheezy2        amd64        XML utilities
+ii  libxml2:amd64                   2.8.0+dfsg1-7+wheezy2        amd64        GNOME XML library
+ii  libxmlsec1                      1.2.18-2                     amd64        XML security library
+ii  libxmlsec1-openssl              1.2.18-2                     amd64        Openssl engine for the XML security library
+ii  libxmuu1:amd64                  2:1.1.1-1                    amd64        X11 miscellaneous micro-utility library
+ii  libxslt1.1:amd64                1.1.26-14.1                  amd64        XSLT 1.0 processing library - runtime library
+ii  libxtst6:amd64                  2:1.2.1-1+deb7u1             amd64        X11 Testing -- Record extension library
+ii  libyajl2                        2.0.4-2                      amd64        Yet Another JSON Library
+ii  libyaml-0-2:amd64               0.1.4-3.2~bpo70+1            amd64        Fast YAML 1.1 parser and emitter library
+ii  libzmq3:amd64                   4.0.4+dfsg-2~bpo70+1         amd64        lightweight messaging kernel (shared library)
+ii  linux-libc-dev:amd64            3.14.12-1~bpo70+2            amd64        Linux support headers for userspace development
+ii  locales                         2.13-38+deb7u6               all          Embedded GNU C Library: National Language (locale) data [support]
+ii  login                           1:4.1.5.1-1                  amd64        system login tools
+ii  logrotate                       3.8.1-4                      amd64        Log rotation utility
+ii  lsb-base                        4.1+Debian8+deb7u1           all          Linux Standard Base 4.1 init script functionality
+ii  lvm2                            2.02.95-8                    amd64        Linux Logical Volume Manager
+ii  make                            3.81-8.2                     amd64        An utility for Directing compilation.
+ii  man-db                          2.6.2-1                      amd64        on-line manual pager
+ii  manpages                        3.44-1                       all          Manual pages about using a GNU/Linux system
+ii  manpages-dev                    3.44-1                       all          Manual pages about using GNU/Linux for development
+ii  mawk                            1.3.3-17                     amd64        a pattern scanning and text processing language
+ii  mime-support                    3.52-1+deb7u1                all          MIME files 'mime.types' & 'mailcap', and support programs
+ii  mount                           2.20.1-5.3                   amd64        Tools for mounting and manipulating filesystems
+ii  multiarch-support               2.13-38+deb7u6               amd64        Transitional package to ensure multiarch compatibility
+ii  mysql-common                    5.5.40-0+wheezy1             all          MySQL database common files, e.g. /etc/mysql/my.cnf
+ii  nano                            2.2.6-1+b1                   amd64        small, friendly text editor inspired by Pico
+ii  ncurses-base                    5.9-10                       all          basic terminal type definitions
+ii  ncurses-bin                     5.9-10                       amd64        terminal-related programs and man pages
+ii  ncurses-term                    5.9-10                       all          additional terminal type definitions
+ii  net-tools                       1.60-24.2                    amd64        The NET-3 networking toolkit
+ii  netbase                         5.0                          all          Basic TCP/IP networking system
+ii  netcat-openbsd                  1.105-7                      amd64        TCP/IP swiss army knife
+ii  netcat-traditional              1.10-40                      amd64        TCP/IP swiss army knife
+ii  openssh-blacklist               0.4.1+nmu1                   all          list of default blacklisted OpenSSH RSA and DSA keys
+ii  openssh-blacklist-extra         0.4.1+nmu1                   all          list of non-default blacklisted OpenSSH RSA and DSA keys
+ii  openssh-client                  1:6.0p1-4+deb7u2             amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                  1:6.0p1-4+deb7u2             amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssl                         1.0.1e-2+deb7u14             amd64        Secure Socket Layer (SSL) binary and related cryptographic tools
+ii  openstack-pkg-tools             22~bpo70+1                   all          Tools and scripts for building Openstack packages in Debian
+ii  passwd                          1:4.1.5.1-1                  amd64        change and administer password and group data
+ii  patch                           2.6.1-3                      amd64        Apply a diff file to an original
+ii  pep8                            1.4.6-1.1~bpo70+1            all          Python PEP 8 code style checker - python2
+ii  perl                            5.14.2-21+deb7u2             amd64        Larry Wall's Practical Extraction and Report Language
+ii  perl-base                       5.14.2-21+deb7u2             amd64        minimal Perl system
+ii  perl-modules                    5.14.2-21+deb7u2             all          Core Perl modules
+ii  po-debconf                      1.0.16+nmu2                  all          tool for managing templates file translations with gettext
+ii  policykit-1                     0.105-3                      amd64        framework for managing administrative policies and privileges
+ii  procps                          1:3.3.3-3                    amd64        /proc file system utilities
+ii  pyflakes                        0.7.3-2~bpo70+1              all          passive checker of Python 2 and 3 programs
+ii  pylint                          0.25.1-1                     all          python code static checker and UML diagram generator
+ii  python                          2.7.3-4+deb7u1               all          interactive high-level object-oriented language (default version)
+ii  python-alembic                  0.6.5+ds-1~bpo70+1           all          lightweight database migration tool for SQLAlchemy
+ii  python-all                      2.7.3-4+deb7u1               all          package depending on all supported Python runtime versions
+ii  python-all-dev                  2.7.3-4+deb7u1               all          package depending on all supported Python development packages
+ii  python-amqp                     1.4.5-1~bpo70+1              all          Low-level AMQP client
+ii  python-anyjson                  0.3.3-1~bpo70+1              all          Common interface for the best available JSON implementation
+ii  python-babel                    1.3+dfsg.1-3~bpo70+1         all          tools for internationalizing Python applications - Python 2.x
+ii  python-babel-localedata         1.3+dfsg.1-3~bpo70+1         all          tools for internationalizing Python applications - locale data files
+ii  python-bashate                  0.2.0-1~bpo70+1              all          bash script style guide checker - Python 2.x
+ii  python-boto                     2.32.1-1.1~bpo70+1           all          Python interface to Amazon's Web Services - Python 2.x
+ii  python-bs4                      4.1.0-1                      all          error-tolerant HTML parser for Python
+ii  python-bson                     2.6.2-1~bpo70+1              amd64        Python implementation of BSON for MongoDB
+ii  python-chardet                  2.0.1-2                      all          universal character encoding detector
+ii  python-cinderclient             1:1.1.1-1~bpo70+1            all          Python bindings to the OpenStack Volume API
+ii  python-cliff                    1.7.0-2~bpo70+1              all          command line interface formulation framework - Python 2.x
+ii  python-cmd2                     0.6.7-1.1~bpo70+1            all          enhanced Python cmd module - Python 2.x
+ii  python-colorama                 0.2.5-0.1~bpo70+1            all          Cross-platform colored terminal text in Python - Python 2.x
+ii  python-configobj                4.7.2+ds-4                   all          simple but powerful config file reader and writer for Python
+ii  python-coverage                 3.7+dfsg.1-3~bpo70+1         amd64        code coverage tool for Python 2
+ii  python-crypto                   2.6.1-2~bpo70+1              amd64        cryptographic algorithms and protocols for Python
+ii  python-dateutil                 1.5+dfsg-0.1                 all          powerful extensions to the standard datetime module
+ii  python-decorator                3.4.0-2~bpo70+1              all          simplify usage of Python decorators by programmers
+ii  python-dev                      2.7.3-4+deb7u1               all          header files and a static library for Python (default)
+ii  python-dns                      2.3.6-1+deb7u1               all          DNS client module for Python
+ii  python-docutils                 0.10-3~bpo70+1               all          text processing system for reStructuredText (implemented in Python 2)
+ii  python-dogpile.cache            0.5.4-1~bpo70+1              all          caching front-end based on the Dogpile lock - Python 2.x
+ii  python-dogpile.core             0.4.1+dfsg1-2~bpo70+1        all          dogpile lock, typically used in larger caching solution - Python 2.x
+ii  python-ecdsa                    0.11-1~bpo70+1               all          ECDSA cryptographic signature library (Python 2)
+ii  python-eventlet                 0.15.2-1~bpo70+1             all          concurrent networking library - Python 2.x
+ii  python-extras                   0.0.3-4~bpo70+1              all          extensions to the Python standard library (Python 2.x)
+ii  python-feedparser               5.1.2-1                      all          Universal Feed Parser for Python
+ii  python-fixtures                 0.3.14-2~bpo70+1             all          PyUnit extension for defining test fixtures outside of test cases - Python 2.x
+ii  python-flake8                   2.1.0-1~bpo70+1              amd64        code checker using pep8 and pyflakes
+ii  python-formencode               1.2.4-2                      all          validation and form generation Python package
+ii  python-glanceclient             1:0.14.1-1~bpo70+1           all          Client library for Openstack glance server
+ii  python-greenlet                 0.4.2-1~bpo70+1              amd64        Lightweight in-process concurrent programming
+ii  python-hacking                  0.8.1-4~bpo70+1              all          Flake8 OpenStack Hacking Guidelines Enforcement plugins - Python 2.x
+ii  python-httplib2                 0.8-2~bpo70+1                all          comprehensive HTTP client library written for Python
+ii  python-ironicclient             0.3.0-1~bpo70+1              all          Client for OpenStack bare metal Service
+ii  python-iso8601                  0.1.10-0.1~bpo70+1           all          python module to parse ISO 8601 dates - Python 2.x
+ii  python-jinja2                   2.7.3-1~bpo70+1              all          small but fast and easy to use stand-alone template engine
+ii  python-json-patch               1.3-5~bpo70+1                all          library to apply JSON patches - python 2.x transitional package
+ii  python-json-pointer             1.0-2~bpo70+1                all          resolve JSON pointers - python 2.x
+ii  python-jsonpatch                1.3-5~bpo70+1                all          library to apply JSON patches - python 2.x
+ii  python-jsonschema               2.3.0-1~bpo70+1              all          An(other) implementation of JSON Schema (Draft 3) for Python
+ii  python-keyring                  2.1-1~bpo70+1                all          store and access your passwords safely
+ii  python-keystoneclient           1:0.11.1-1~bpo70+1           all          client library for the OpenStack Keystone API
+ii  python-keystonemiddleware       1.0.0-3~bpo70+1              all          Middleware for OpenStack Identity (Keystone) - Python 2.x
+ii  python-kombu                    3.0.21-2~bpo70+1             all          AMQP Messaging Framework for Python
+ii  python-ldap                     2.4.10-1                     amd64        LDAP interface module for Python
+ii  python-ldappool                 1.0-1~bpo70+1                all          connection pool for python-ldap
+ii  python-libvirt                  1.2.8-1~bpo70+1              amd64        libvirt Python bindings
+ii  python-lockfile                 1:0.8-2                      all          file locking library for Python
+ii  python-logilab-astng            0.23.1-1                     all          rebuild a new abstract syntax tree (AST) from Python's ast
+ii  python-logilab-common           0.58.0-1                     all          useful miscellaneous modules used by Logilab projects
+ii  python-logutils                 0.3.3-2~bpo70+1              all          handlers for the Python standard library's logging package - Python 2.x
+ii  python-lxml                     2.3.2-1+deb7u1               amd64        pythonic binding for the libxml2 and libxslt libraries
+ii  python-m2crypto                 0.21.1-2                     amd64        a crypto and SSL toolkit for Python
+ii  python-mako                     1.0.0+dfsg-0.1~bpo70+1       all          fast and lightweight templating for the Python platform
+ii  python-markupsafe               0.23-1~bpo70+1               amd64        HTML/XHTML/XML string library for Python
+ii  python-mccabe                   0.2.1-1~bpo70+1              all          Python code complexity checker (Python 2)
+ii  python-memcache                 1.48-1                       all          pure python memcached client
+ii  python-migrate                  0.9.1-1~bpo70+1              all          Database schema migration for SQLAlchemy
+ii  python-mimeparse                0.1.4-1~bpo70+1              all          Parse mime-types and quality parameters - python 2.x
+ii  python-minimal                  2.7.3-4+deb7u1               all          minimal subset of the Python language (default version)
+ii  python-mock                     1.0.1-3~bpo70+1              all          Mocking and Testing Library
+ii  python-mox                      0.5.3-3                      all          mock object framework for Python
+ii  python-mox3                     0.7.0-2~bpo70+1              all          Mock object framework - Python 2.x
+ii  python-mysqldb                  1.2.3-2                      amd64        Python interface to MySQL
+ii  python-netaddr                  0.7.12-1~bpo70+1             all          manipulation of various common network address notations (Python 2)
+ii  python-netifaces                0.10.4-0.1~bpo70+1           amd64        portable network interface information - Python 2.x
+ii  python-neutronclient            2.3.6-2~bpo70+1              all          client API library for Neutron
+ii  python-nose                     1.3.4-1~bpo70+1              all          test discovery and running of Python's unittest
+ii  python-nosehtmloutput           0.0.4-3~bpo70+1              all          plugin to produce test results in html
+ii  python-nosexcover               1.0.7-1                      all          Add Cobertura-style XML coverage report to nose
+ii  python-novaclient               2:2.18.1-1~bpo70+1           all          client library for OpenStack Compute API
+ii  python-numpy                    1:1.6.2-1.2                  amd64        Numerical Python adds a fast array facility to the Python language
+ii  python-oauthlib                 0.6.1-1~bpo70+1              all          generic, spec-compliant implementation of OAuth for Python
+ii  python-openssl                  0.13-2+deb7u1                amd64        Python 2 wrapper around the OpenSSL library
+ii  python-openstack.nose-plugin    0.11-1~bpo70+1               all          nosetests output to mimic the output of openstack's run_tests.py - Python 2.x
+ii  python-ordereddict              1.1-1~bpo70+1                all          A drop-in substitute for Py2.7's new collections.OrderedDict
+ii  python-oslo.config              1:1.4.0.0-2~bpo70+1          all          Common code for Openstack Projects (configuration API) - Python 2.x
+ii  python-oslo.db                  1.0.2-1~bpo70+1              all          database connectivity to the different backends and helper utils - Python 2.x
+ii  python-oslo.i18n                1.0.0-1~bpo70+1              all          Oslo Internationalization Utilities - Python 2.x
+ii  python-oslo.messaging           1.4.1-2~bpo70+1              all          oslo messaging library
+ii  python-oslo.rootwrap            1.3.0.0-1~bpo70+1            all          allows fine filtering of shell commands to run as root - Python 2.x
+ii  python-oslo.serialization       1.0.0-1~bpo70+1              all          utilities for serialization , especially JSON - Python 2.x
+ii  python-oslo.utils               1.0.0-1~bpo70+1              all          set of utility functions for OpenStack - Python 2.x
+ii  python-oslo.vmware              0.6.0-1~bpo70+1              all          VMware library for OpenStack projects - Python 2.x
+ii  python-oslosphinx               2.2.0.0-1~bpo70+1            all          theme and extension support for openstack
+ii  python-oslotest                 1.1.0.0-1~bpo70+1            all          OpenStack test framework - Python 2.x
+ii  python-pam                      0.4.2-13                     amd64        Python interface to the PAM library
+ii  python-paramiko                 1.14.0-2~bpo70+1             all          Make ssh v2 connections with Python (Python 2)
+ii  python-passlib                  1.5.3-2                      all          comprehensive password hashing framework
+ii  python-paste                    1.7.5.1-6~bpo70+1            all          tools for using a Web Server Gateway Interface stack
+ii  python-pastedeploy              1.5.0-5~bpo70+1              all          load, configure, and compose WSGI applications and servers
+ii  python-pastedeploy-tpl          1.5.0-5~bpo70+1              all          load, configure, and compose WSGI applications and servers - templates
+ii  python-pbr                      0.10.0-1~bpo70+1             all          inject useful and sensible default behaviors into setuptools - Python 2.x
+ii  python-pecan                    0.6.1-2~bpo70+1              all          WSGI object-dispatching web framework - Python 2.x
+ii  python-pexpect                  3.1-1~bpo70+1                all          Python module for automating interactive applications
+ii  python-pip                      1.4.1-2~bpo70+1              all          alternative Python package installer
+ii  python-pkg-resources            5.5.1-1~bpo70+2              all          Package Discovery and Resource Access using pkg_resources
+ii  python-posix-ipc                0.9.8-2~bpo70+1              amd64        semaphores, shared memory and message queues - Python 2.x
+ii  python-prettytable              0.7.2-2~bpo70+1              all          library to represent tabular data in visually appealing ASCII tables
+ii  python-psycopg2                 2.5.4+dfsg-1~bpo70+1         amd64        Python module for PostgreSQL
+ii  python-pyasn1                   0.1.7-1~bpo70+1              all          ASN.1 library for Python (Python 2 module)
+ii  python-pycadf                   0.6.0-1~bpo70+1              all          implementation of DMTF Cloud Audit (CADF) data model
+ii  python-pygments                 1.5+dfsg-1                   all          syntax highlighting package written in Python
+ii  python-pymongo                  2.6.2-1~bpo70+1              amd64        Python interface to the MongoDB document-oriented database
+ii  python-pyparsing                2.0.1+dfsg1-1~bpo70+1        all          Python parsing module
+ii  python-pysaml2                  2.0.0-1~bpo70+1              all          SAML Version 2 to be used in a WSGI environment - Python 2.x
+ii  python-pysqlite2                2.6.3-3                      amd64        Python interface to SQLite 3
+ii  python-qpid                     0.16-1                       all          Python bindings for qpid/mlib
+ii  python-repoze.lru               0.5-2                        all          tiny LRU cache implementation and decorator
+ii  python-repoze.who               1.0.18-2                     all          identification and authentication framework for Python WSGI applications
+ii  python-requests                 2.3.0-1~bpo70+2              all          elegant and simple HTTP library for Python, built for human beings
+ii  python-rfc3986                  0.2.0-2~bpo70+1              all          validating URI references per RFC 3986 - Python 2.x
+ii  python-roman                    0.8.1-8                      all          module for generating/analyzing Roman numerals for Python 2
+ii  python-routes                   1.13-2                       all          Routing Recognition and Generation Tools
+ii  python-setuptools               5.5.1-1~bpo70+2              all          Python Distutils Enhancements
+ii  python-simplegeneric            0.8.1-1                      all          simple generic functions for Python
+ii  python-simplejson               3.3.0-3~bpo70+1              amd64        simple, fast, extensible JSON encoder/decoder for Python
+ii  python-singledispatch           3.4.0.2-1~bpo70+1            all          single-dispatch generic functions for Python
+ii  python-six                      1.7.3-1~bpo70+1              all          Python 2 and 3 compatibility library (Python 2 interface)
+ii  python-sphinx                   1.2.2+dfsg-2~bpo70+1         all          documentation generator for Python projects (implemented in Python 2)
+ii  python-sqlalchemy               0.8.4-1~bpo70+1              all          SQL toolkit and Object Relational Mapper for Python
+ii  python-stevedore                1.0.0-2~bpo70+1              all          manage dynamic plugins for Python applications - python2
+ii  python-subunit                  0.0.18-5~bpo70+1             all          unit testing protocol - Python bindings to generate and consume streams
+ii  python-suds                     0.4.1-5+deb7u1               all          Lightweight SOAP client for Python
+ii  python-support                  1.0.15                       all          automated rebuilding support for Python modules
+ii  python-tempita                  0.5.1-1                      all          very small text templating language
+ii  python-termcolor                1.1.0-1~bpo70+1              all          ANSII Color formatting for output in terminal - Python 2.x
+ii  python-testrepository           0.0.18-4~bpo70+1             all          Database of test results - Python 2.x library
+ii  python-testscenarios            0.4-3~bpo70+1                all          Dependency injection for Python unittest tests - Python 2.x
+ii  python-testtools                0.9.35-1~bpo70+1             all          Extensions to the Python unittest library - Python 2.x
+ii  python-tz                       2012c-1                      all          Python version of the Olson timezone database
+ii  python-unittest2                0.5.1-1                      all          backport of the enhanced unittest testing framework in Python 2.7
+ii  python-urllib3                  1.8.3-1~bpo70+1              all          HTTP library with thread-safe connection pooling for Python
+ii  python-waitress                 0.8.8-1~bpo70+1              all          production-quality pure-Python WSGI server
+ii  python-warlock                  1.0.1-2~bpo70+1              all          object model built on top of JSON schema - python 2.x
+ii  python-webob                    1.2.3-4~bpo70+1              all          Python module providing WSGI request and response objects (Python 2)
+ii  python-webtest                  2.0.14-1~bpo70+1             all          wraps any WSGI application and makes it easy to test
+ii  python-xattr                    0.6.4-2                      amd64        module for manipulating filesystem extended attributes
+ii  python-yaml                     3.10-4+deb7u1                amd64        YAML parser and emitter for Python
+ii  python-zmq                      14.3.1-1~bpo70+1             amd64        Python bindings for 0MQ library
+ii  python-zope.interface           4.0.5-1~bpo70+1              amd64        Interfaces for Python
+ii  python2.6                       2.6.8-1.1                    amd64        Interactive high-level object-oriented language (version 2.6)
+ii  python2.6-dev                   2.6.8-1.1                    amd64        Header files and a static library for Python (v2.6)
+ii  python2.6-minimal               2.6.8-1.1                    amd64        Minimal subset of the Python language (version 2.6)
+ii  python2.7                       2.7.3-6+deb7u2               amd64        Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-dev                   2.7.3-6+deb7u2               amd64        Header files and a static library for Python (v2.7)
+ii  python2.7-minimal               2.7.3-6+deb7u2               amd64        Minimal subset of the Python language (version 2.7)
+ii  python3                         3.2.3-6                      all          interactive high-level object-oriented language (default python3 version)
+ii  python3-extras                  0.0.3-4~bpo70+1              all          extensions to the Python standard library (Python 3.x)
+ii  python3-fixtures                0.3.14-2~bpo70+1             all          PyUnit extension for defining test fixtures outside of test cases - Python 3.x
+ii  python3-mimeparse               0.1.4-1~bpo70+1              all          Parse mime-types and quality parameters - python 3.x
+ii  python3-minimal                 3.2.3-6                      all          minimal subset of the Python language (default python3 version)
+ii  python3-pkg-resources           5.5.1-1~bpo70+2              all          Package Discovery and Resource Access using pkg_resources
+ii  python3-subunit                 0.0.18-5~bpo70+1             all          unit testing protocol - Python3 bindings to generate and consume streams
+ii  python3-testrepository          0.0.18-4~bpo70+1             all          Database of test results - Python 3.x library
+ii  python3-testtools               0.9.35-1~bpo70+1             all          Extensions to the Python unittest library - Python 3.x
+ii  python3.2                       3.2.3-7                      amd64        Interactive high-level object-oriented language (version 3.2)
+ii  python3.2-minimal               3.2.3-7                      amd64        Minimal subset of the Python language (version 3.2)
+ii  qemu-keymaps                    1.7.0+dfsg-8~bpo70+1         all          QEMU keyboard maps
+ii  qemu-kvm                        1.7.0+dfsg-8~bpo70+1         amd64        QEMU Full virtualization on x86 hardware (transitional package)
+ii  qemu-system-common              1.7.0+dfsg-8~bpo70+1         amd64        QEMU full system emulation binaries (common files)
+ii  qemu-system-x86                 1.7.0+dfsg-8~bpo70+1         amd64        QEMU full system emulation binaries (x86)
+ii  qemu-utils                      1.7.0+dfsg-8~bpo70+1         amd64        QEMU utilities
+ii  readline-common                 6.2+dfsg-0.1                 all          GNU readline and history libraries, common files
+ii  rsyslog                         5.8.11-3+deb7u2              amd64        reliable system and kernel logging daemon
+ii  seabios                         1.7.4-4~bpo70+1              all          Legacy BIOS implementation
+ii  sed                             4.2.1-10                     amd64        The GNU sed stream editor
+ii  sensible-utils                  0.0.7                        all          Utilities for sensible alternative selection
+ii  sgml-base                       1.26+nmu4                    all          SGML infrastructure and SGML catalog file support
+ii  shared-mime-info                1.0-1+b1                     amd64        FreeDesktop.org shared MIME database and spec
+ii  sharutils                       1:4.11.1-1                   amd64        shar, unshar, uuencode, uudecode
+ii  sphinx-common                   1.2.2+dfsg-2~bpo70+1         all          documentation generator for Python projects - common data
+ii  sqlite3                         3.7.13-1+deb7u1              amd64        Command line interface for SQLite 3
+ii  subunit                         0.0.18-5~bpo70+1             all          command line tools for processing Subunit streams
+ii  sudo                            1.8.11p1-2~bpo70+1           amd64        Provide limited super user privileges to specific users
+ii  sysv-rc                         2.88dsf-41+deb7u1            all          System-V-like runlevel change mechanism
+ii  sysvinit                        2.88dsf-41+deb7u1            amd64        System-V-like init utilities
+ii  sysvinit-utils                  2.88dsf-41+deb7u1            amd64        System-V-like utilities
+ii  tar                             1.26+dfsg-0.1                amd64        GNU version of the tar archiving utility
+ii  tasksel                         3.14.1                       all          Tool for selecting tasks for installation on Debian systems
+ii  tasksel-data                    3.14.1                       all          Official tasks used for installation of Debian systems
+ii  tcpd                            7.6.q-24                     amd64        Wietse Venema's TCP wrapper utilities
+ii  testrepository                  0.0.18-4~bpo70+1             all          unit test system with database of test results - metapackage and doc
+ii  traceroute                      1:2.0.18-3                   amd64        Traces the route taken by packets over an IPv4/IPv6 network
+ii  tsconf                          1.0-11                       all          touch screen library common files
+ii  tzdata                          2014j-0wheezy1               all          time zone and daylight-saving time data
+ii  udev                            175-7.2                      amd64        /dev/ and hotplug management daemon
+ii  util-linux                      2.20.1-5.3                   amd64        Miscellaneous system utilities
+ii  vim-common                      2:7.3.547-7                  amd64        Vi IMproved - Common files
+ii  vim-tiny                        2:7.3.547-7                  amd64        Vi IMproved - enhanced vi editor - compact version
+ii  websockify                      0.6.0+dfsg1-1~bpo70+1        amd64        WebSockets support for any application/server
+ii  wget                            1.13.4-3+deb7u2              amd64        retrieves files from the web
+ii  whiptail                        0.52.14-11.1                 amd64        Displays user-friendly dialog boxes from shell scripts
+ii  x11-common                      1:7.7+3~deb7u1               all          X Window System (X.Org) infrastructure
+ii  xauth                           1:1.0.7-1                    amd64        X authentication utility
+ii  xml-core                        0.13+nmu2                    all          XML infrastructure and XML catalog file support
+ii  xmlsec1                         1.2.18-2                     amd64        XML security command line processor
+ii  xz-utils                        5.1.1alpha+20120614-2        amd64        XZ-format compression utilities
+ii  zlib1g-dev:amd64                1:1.2.7.dfsg-13              amd64        compression library - development
+ii  zlib1g:amd64                    1:1.2.7.dfsg-13              amd64        compression library - runtime
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                            Version                      Architecture Description

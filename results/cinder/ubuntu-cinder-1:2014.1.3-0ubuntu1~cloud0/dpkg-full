@@ -1,0 +1,456 @@
++++-================================-===================================-==============================================================================
+Desired=Unknown/Install/Remove/Purge/Hold
+ii  adduser                          3.113ubuntu2                        add and remove users and groups
+ii  alembic                          0.6.2+ds-1~cloud0                   lightweight database migration tool for SQLAlchemy
+ii  apt                              0.8.16~exp12ubuntu10                commandline package manager
+ii  apt-utils                        0.8.16~exp12ubuntu10                package managment related utility programs
+ii  augeas-lenses                    0.10.0-0ubuntu4                     Set of lenses needed by libaugeas0 to parse config files
+ii  autoconf                         2.68-1ubuntu2                       automatic configure script builder
+ii  automake                         1:1.11.3-1ubuntu2                   Tool for generating GNU Standards-compliant Makefiles
+ii  autotools-dev                    20120210.1ubuntu1                   Update infrastructure for config.{guess,sub} files
+ii  base-files                       6.5ubuntu6                          Debian base system miscellaneous files
+ii  base-passwd                      3.5.24                              Debian base system master password and group files
+ii  bash                             4.2-2ubuntu2                        GNU Bourne Again SHell
+ii  binutils                         2.22-6ubuntu1.1                     GNU assembler, linker and binary utilities
+ii  bridge-utils                     1.5-2ubuntu7                        Utilities for configuring the Linux Ethernet bridge
+ii  bsdmainutils                     8.2.3ubuntu1                        collection of more utilities from FreeBSD
+ii  bsdutils                         1:2.20.1-1ubuntu3                   Basic utilities from 4.4BSD-Lite
+ii  build-essential                  11.5ubuntu2.1                       Informational list of build-essential packages
+ii  busybox-initramfs                1:1.18.5-1ubuntu4                   Standalone shell setup for initramfs
+ii  bzip2                            1.0.6-1                             high-quality block-sorting file compressor - utilities
+ii  ca-certificates                  20111211                            Common CA certificates
+ii  cgroup-lite                      1.1.5                               Light-weight package to set up cgroups at system boot
+ii  console-setup                    1.70ubuntu5                         console font and keymap setup program
+ii  coreutils                        8.13-3ubuntu3                       GNU core utilities
+ii  cpio                             2.11-7ubuntu3                       GNU cpio -- a program to manage archives of files
+ii  cpp                              4:4.6.3-1ubuntu5                    GNU C preprocessor (cpp)
+ii  cpp-4.6                          4.6.3-1ubuntu5                      GNU C preprocessor
+ii  cron                             3.0pl1-120ubuntu3                   process scheduling daemon
+ii  dash                             0.5.7-2ubuntu2                      POSIX-compliant shell
+ii  dbus                             1.4.18-1ubuntu1.7                   simple interprocess messaging system (daemon and utilities)
+ii  debconf                          1.5.42ubuntu1                       Debian configuration management system
+ii  debconf-i18n                     1.5.42ubuntu1                       full internationalization support for debconf
+ii  debhelper                        9.20120115ubuntu3                   helper programs for debian/rules
+ii  debianutils                      4.2.1ubuntu2                        Miscellaneous utilities specific to Debian
+ii  dh-apparmor                      2.7.102-0ubuntu3.10                 AppArmor debhelper routines
+ii  diffutils                        1:3.2-1ubuntu1                      File comparison utilities
+ii  dmidecode                        2.11-4ubuntu0.1                     SMBIOS/DMI table decoder
+ii  dmsetup                          2:1.02.48-4ubuntu7                  The Linux Kernel Device Mapper userspace library
+ii  dnsmasq-base                     2.59-4ubuntu0.1                     Small caching DNS proxy and DHCP/TFTP server
+ii  docutils-common                  0.8.1-4ubuntu1                      text processing system for reStructuredText - common data
+ii  dpkg                             1.16.1.2ubuntu7                     Debian package management system
+ii  dpkg-dev                         1.16.1.2ubuntu7.5                   Debian package development tools
+ii  e2fslibs                         1.42-1ubuntu2                       ext2/ext3/ext4 file system libraries
+ii  e2fsprogs                        1.42-1ubuntu2                       ext2/ext3/ext4 file system utilities
+ii  eatmydata                        26-2                                library and utilities designed to disable fsync and friends
+ii  ebtables                         2.0.9.2-2ubuntu2                    Ethernet bridge frame table administration
+ii  eject                            2.1.5+deb1+cvs20081104-9            ejects CDs and operates CD-Changers under Linux
+ii  fakeroot                         1.18.2-1                            tool for simulating superuser privileges
+ii  file                             5.09-2                              Determines file type using "magic" numbers
+ii  findutils                        4.4.2-4ubuntu1                      utilities for finding files--find, xargs
+ii  g++                              4:4.6.3-1ubuntu5                    GNU C++ compiler
+ii  g++-4.6                          4.6.3-1ubuntu5                      GNU C++ compiler
+ii  gawk                             1:3.1.8+dfsg-0.1ubuntu1             GNU awk, a pattern scanning and processing language
+ii  gcc                              4:4.6.3-1ubuntu5                    GNU C compiler
+ii  gcc-4.6                          4.6.3-1ubuntu5                      GNU C compiler
+ii  gcc-4.6-base                     4.6.3-1ubuntu5                      GCC, the GNU Compiler Collection (base package)
+ii  gettext                          0.18.1.1-5ubuntu3                   GNU Internationalization utilities
+ii  gettext-base                     0.18.1.1-5ubuntu3                   GNU Internationalization utilities for the base system
+ii  gnupg                            1.4.11-3ubuntu2                     GNU privacy guard - a free PGP replacement
+ii  gpgv                             1.4.11-3ubuntu2                     GNU privacy guard - signature verification tool
+ii  grep                             2.10-1                              GNU grep, egrep and fgrep
+ii  groff-base                       1.21-7                              GNU troff text-formatting system (base system components)
+ii  gzip                             1.4-1ubuntu2                        GNU compression utilities
+ii  hdparm                           9.37-0ubuntu3.1                     tune hard disk parameters for high performance
+ii  hostname                         3.06ubuntu1                         utility to set/show the host name or domain name
+ii  html2text                        1.3.2a-15                           advanced HTML to text converter
+ii  ifupdown                         0.7~beta2ubuntu8                    high level tools to configure network interfaces
+ii  initramfs-tools                  0.99ubuntu13                        tools for generating an initramfs
+ii  initramfs-tools-bin              0.99ubuntu13                        binaries used by initramfs-tools
+ii  initscripts                      2.88dsf-13.10ubuntu11               scripts for initializing and shutting down the system
+ii  insserv                          1.14.0-2.1ubuntu2                   Tool to organize boot sequence using LSB init.d script dependencies
+ii  intltool                         0.50.2-2                            Utility scripts for internationalizing XML
+ii  intltool-debian                  0.35.0+20060710.1                   Help i18n of RFC822 compliant config files
+ii  iproute                          20111117-1ubuntu2                   networking and traffic control tools
+ii  iptables                         1.4.12-1ubuntu5                     administration tools for packet filtering and NAT
+ii  iputils-ping                     3:20101006-1ubuntu1                 Tools to test the reachability of network hosts
+ii  isc-dhcp-client                  4.1.ESV-R4-0ubuntu5                 ISC DHCP client
+ii  isc-dhcp-common                  4.1.ESV-R4-0ubuntu5                 common files used by all the isc-dhcp* packages
+ii  kbd                              1.15.2-3ubuntu4                     Linux console font and keytable utilities
+ii  keyboard-configuration           1.70ubuntu5                         system-wide keyboard preferences
+ii  klibc-utils                      1.5.25-1ubuntu2                     small utilities built with klibc for early boot
+ii  krb5-locales                     1.10+dfsg~beta1-2                   Internationalization support for MIT Kerberos
+ii  less                             444-1ubuntu1                        pager program similar to more
+ii  libacl1                          2.2.51-5ubuntu1                     Access control list shared library
+ii  libalgorithm-diff-perl           1.19.02-2                           module to find differences between files
+ii  libalgorithm-diff-xs-perl        0.04-2build2                        module to find differences between files (XS accelerated)
+ii  libalgorithm-merge-perl          0.08-2                              Perl module for three-way merge of textual data
+ii  libapparmor1                     2.7.102-0ubuntu3.10                 changehat AppArmor library
+ii  libapt-inst1.4                   0.8.16~exp12ubuntu10                deb package format runtime library
+ii  libapt-pkg4.12                   0.8.16~exp12ubuntu10                package managment runtime library
+ii  libasn1-8-heimdal                1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - ASN.1 library
+ii  libattr1                         1:2.4.46-5ubuntu1                   Extended attribute shared library
+ii  libaudit0                        1.7.18-1ubuntu1                     Dynamic library for security auditing
+ii  libaugeas0                       0.10.0-0ubuntu4                     Augeas configuration editing library and API
+ii  libavahi-client3                 0.6.30-5ubuntu2.1                   Avahi client library
+ii  libavahi-common-data             0.6.30-5ubuntu2.1                   Avahi common data files
+ii  libavahi-common3                 0.6.30-5ubuntu2.1                   Avahi common library
+ii  libblas3gf                       1.2.20110419-2ubuntu1               Basic Linear Algebra Reference implementations, shared library
+ii  libblkid1                        2.20.1-1ubuntu3                     block device id library
+ii  libboost-thread1.46.1            1.46.1-7ubuntu3                     portable C++ multi-threading
+ii  libbsd0                          0.3.0-2                             utility functions from BSD systems - shared library
+ii  libbz2-1.0                       1.0.6-1                             high-quality block-sorting file compressor library - runtime
+ii  libc-bin                         2.15-0ubuntu10.9                    Embedded GNU C Library: Binaries
+ii  libc-dev-bin                     2.15-0ubuntu10.9                    Embedded GNU C Library: Development binaries
+ii  libc6                            2.15-0ubuntu10.9                    Embedded GNU C Library: Shared libraries
+ii  libc6-dev                        2.15-0ubuntu10.9                    Embedded GNU C Library: Development Libraries and Header Files
+ii  libcap-ng0                       0.6.6-1ubuntu1                      An alternate POSIX capabilities library
+ii  libclass-isa-perl                0.36-3                              report the search path for a class's ISA tree
+ii  libcomerr2                       1.42-1ubuntu2                       common error description library
+ii  libcroco3                        0.6.5-1ubuntu0.1                    Cascading Style Sheet (CSS) parsing and manipulation toolkit
+ii  libdb5.1                         5.1.25-11build1                     Berkeley v5.1 Database Libraries [runtime]
+ii  libdbus-1-3                      1.4.18-1ubuntu1                     simple interprocess messaging system (library)
+ii  libdevmapper1.02.1               2:1.02.48-4ubuntu7                  The Linux Kernel Device Mapper userspace library
+ii  libdpkg-perl                     1.16.1.2ubuntu7.5                   Dpkg perl modules
+ii  libdrm-intel1                    2.4.32-1ubuntu1                     Userspace interface to intel-specific kernel DRM services -- runtime
+ii  libdrm-nouveau1a                 2.4.32-1ubuntu1                     Userspace interface to nouveau-specific kernel DRM services -- runtime
+ii  libdrm-radeon1                   2.4.32-1ubuntu1                     Userspace interface to radeon-specific kernel DRM services -- runtime
+ii  libdrm2                          2.4.32-1ubuntu1                     Userspace interface to kernel DRM services -- runtime
+ii  libedit2                         2.11-20080614-3ubuntu2              BSD editline and history libraries
+ii  libelf1                          0.152-1ubuntu3                      library to read and write ELF files
+ii  libencode-locale-perl            1.02-2                              utility to determine the locale encoding
+ii  libexpat1                        2.0.1-7.2ubuntu1.1                  XML parsing C library - runtime library
+ii  libexpat1-dev                    2.0.1-7.2ubuntu1.1                  XML parsing C library - development kit
+ii  libffi6                          3.0.11~rc1-5                        Foreign Function Interface library runtime
+ii  libfile-listing-perl             6.03-1                              module to parse directory listings
+ii  libfribidi0                      0.19.2-1                            Free Implementation of the Unicode BiDi algorithm
+ii  libgcc1                          1:4.6.3-1ubuntu5                    GCC support library
+ii  libgcrypt11                      1.5.0-3ubuntu0.3                    LGPL Crypto library - runtime library
+ii  libgdbm3                         1.8.3-10                            GNU dbm database routines (runtime version)
+ii  libgettextpo0                    0.18.1.1-5ubuntu3                   GNU Internationalization library
+ii  libgfortran3                     4.6.3-1ubuntu5                      Runtime library for GNU Fortran applications
+ii  libglib2.0-0                     2.32.1-0ubuntu2                     GLib library of C routines
+ii  libgmp10                         2:5.0.2+dfsg-2ubuntu1               Multiprecision arithmetic library
+ii  libgnutls26                      2.12.14-5ubuntu3.8                  GNU TLS library - runtime library
+ii  libgomp1                         4.6.3-1ubuntu5                      GCC OpenMP (GOMP) support library
+ii  libgpg-error0                    1.10-2ubuntu1                       library for common error values and messages in GnuPG components
+ii  libgpm2                          1.20.4-4                            General Purpose Mouse - shared library
+ii  libgssapi-krb5-2                 1.10+dfsg~beta1-2                   MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii  libgssapi3-heimdal               1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - GSSAPI support library
+ii  libhcrypto4-heimdal              1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - crypto library
+ii  libheimbase1-heimdal             1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - Base library
+ii  libheimntlm0-heimdal             1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - NTLM support library
+ii  libhtml-parser-perl              3.69-1build1                        collection of modules that parse HTML text documents
+ii  libhtml-tagset-perl              3.20-2                              Data tables pertaining to HTML
+ii  libhtml-tree-perl                4.2-1                               Perl module to represent and create HTML syntax trees
+ii  libhttp-cookies-perl             6.00-2                              HTTP cookie jars
+ii  libhttp-date-perl                6.00-1                              module of date conversion routines
+ii  libhttp-message-perl             6.01-1                              perl interface to HTTP style messages
+ii  libhttp-negotiate-perl           6.00-2                              implementation of content negotiation
+ii  libhx509-5-heimdal               1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - X509 support library
+ii  libidn11                         1.23-2                              GNU Libidn library, implementation of IETF IDN specifications
+ii  libio-socket-ssl-perl            1.53-1                              Perl module implementing object oriented interface to SSL sockets
+ii  libjs-jquery                     1.7.1-1ubuntu1                      JavaScript library for dynamic web applications
+ii  libjs-sphinxdoc                  1.1.3+dfsg-2ubuntu2.1               JavaScript support for Sphinx documentation
+ii  libjs-underscore                 1.1.6-1ubuntu2                      JavaScript's functional programming helper library
+ii  libk5crypto3                     1.10+dfsg~beta1-2                   MIT Kerberos runtime libraries - Crypto Library
+ii  libkeyutils1                     1.5.2-2                             Linux Key Management Utilities (library)
+ii  libklibc                         1.5.25-1ubuntu2                     minimal libc subset for use with initramfs
+ii  libkrb5-26-heimdal               1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - libraries
+ii  libkrb5-3                        1.10+dfsg~beta1-2                   MIT Kerberos runtime libraries
+ii  libkrb5support0                  1.10+dfsg~beta1-2                   MIT Kerberos runtime libraries - Support library
+ii  liblapack3gf                     3.3.1-1                             library of linear algebra routines 3 - shared version
+ii  libldap-2.4-2                    2.4.28-1.1ubuntu4.4                 OpenLDAP libraries
+ii  liblocale-gettext-perl           1.05-7build1                        module using libc functions for internationalization in Perl
+ii  liblockfile-bin                  1.09-3                              support binaries for and cli utilities based on liblockfile
+ii  liblockfile1                     1.09-3                              NFS-safe locking library
+ii  liblwp-mediatypes-perl           6.01-1                              module to guess media type for a file or a URL
+ii  liblwp-protocol-https-perl       6.02-1                              https driver for LWP::UserAgent
+ii  liblzma5                         5.1.1alpha+20110809-3               XZ-format compression library
+ii  libmagic1                        5.09-2                              File type determination library using "magic" numbers
+ii  libmount1                        2.20.1-1ubuntu3                     block device id library
+ii  libmpc2                          0.9-4                               multiple precision complex floating-point library
+ii  libmpfr4                         3.1.0-3ubuntu2                      multiple precision floating-point computation
+ii  libmysqlclient18                 5.5.40-0ubuntu0.12.04.1             MySQL database client library
+ii  libncurses5                      5.9-4                               shared libraries for terminal handling
+ii  libncursesw5                     5.9-4                               shared libraries for terminal handling (wide character support)
+ii  libnet-http-perl                 6.02-1                              module providing low-level HTTP connection client
+ii  libnet-ssleay-perl               1.42-1build1                        Perl module for Secure Sockets Layer (SSL)
+ii  libnetcf1                        0.1.9-2ubuntu3.2                    cross-platform network configuration library
+ii  libnetfilter-conntrack3          0.9.1-1ubuntu1                      Netfilter netlink-conntrack library
+ii  libnewt0.52                      0.52.11-2ubuntu10                   Not Erik's Windowing Toolkit - text mode windowing with slang
+ii  libnfnetlink0                    1.0.0-1                             Netfilter netlink library
+ii  libnih-dbus1                     1.0.3-4ubuntu9                      NIH D-Bus Bindings Library
+ii  libnih1                          1.0.3-4ubuntu9                      NIH Utility Library
+ii  libnl-3-200                      3.2.3-2ubuntu2                      library for dealing with netlink sockets
+ii  libnl-route-3-200                3.2.3-2ubuntu2                      library for dealing with netlink sockets - route interface
+ii  libnspr4                         4.10.7-0ubuntu0.12.04.1             NetScape Portable Runtime Library
+ii  libnss3                          3.17.1-0ubuntu0.12.04.2             Network Security Service libraries
+ii  libnuma1                         2.0.9~rc5-1ubuntu2~cloud0           Libraries for controlling NUMA policy
+ii  libp11-kit0                      0.12-2ubuntu1                       Library for loading and coordinating access to PKCS#11 modules - runtime
+ii  libpam-modules                   1.1.3-7ubuntu2                      Pluggable Authentication Modules for PAM
+ii  libpam-modules-bin               1.1.3-7ubuntu2                      Pluggable Authentication Modules for PAM - helper binaries
+ii  libpam-runtime                   1.1.3-7ubuntu2                      Runtime support for the PAM library
+ii  libpam0g                         1.1.3-7ubuntu2                      Pluggable Authentication Modules library
+ii  libparted0debian1                2.3-8ubuntu5.2                      disk partition manipulator - shared library
+ii  libpcap0.8                       1.1.1-10                            system interface for user-level packet capture
+ii  libpci3                          1:3.1.8-2ubuntu6                    Linux PCI Utilities (shared library)
+ii  libpciaccess0                    0.12.902-1                          Generic PCI access library for X
+ii  libpcre3                         8.12-4                              Perl 5 Compatible Regular Expression Library - runtime files
+ii  libpgm-5.1-0                     5.1.116~dfsg-2                      OpenPGM shared library
+ii  libpipeline1                     1.2.1-1                             pipeline manipulation library
+ii  libplymouth2                     0.8.2-2ubuntu30                     graphical boot animation and logger - shared libraries
+ii  libpng12-0                       1.2.46-3ubuntu4                     PNG library - runtime
+ii  libpopt0                         1.16-3ubuntu1                       lib for parsing cmdline parameters
+ii  libpython2.7                     2.7.3-0ubuntu3.6                    Shared Python runtime library (version 2.7)
+ii  libquadmath0                     4.6.3-1ubuntu5                      GCC Quad-Precision Math Library
+ii  librabbitmq1                     0.4.1-1~cloud0                      AMQP client library written in C
+ii  librados2                        0.80.5-0ubuntu0.14.04.1~cloud0      RADOS distributed object store client library
+ii  librbd1                          0.80.5-0ubuntu0.14.04.1~cloud0      RADOS block device client library
+ii  libreadline6                     6.2-8                               GNU readline and history libraries, run-time libraries
+ii  libroken18-heimdal               1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - roken support library
+ii  libsasl2-2                       2.1.25.dfsg1-3ubuntu0.1             Cyrus SASL - authentication abstraction library
+ii  libsasl2-modules                 2.1.25.dfsg1-3ubuntu0.1             Cyrus SASL - pluggable authentication modules
+ii  libselinux1                      2.1.0-4.1ubuntu1                    SELinux runtime shared libraries
+ii  libsigsegv2                      2.9-4ubuntu2                        Library for handling page faults in a portable way
+ii  libslang2                        2.2.4-3ubuntu1                      S-Lang programming library - runtime version
+ii  libsqlite3-0                     3.7.9-2ubuntu1.1                    SQLite 3 shared library
+ii  libss2                           1.42-1ubuntu2                       command-line interface parsing library
+ii  libssl-dev                       1.0.1-4ubuntu5.21                   SSL development libraries, header files and documentation
+ii  libssl1.0.0                      1.0.1-4ubuntu5.21                   SSL shared libraries
+ii  libstdc++6                       4.6.3-1ubuntu5                      GNU Standard C++ Library v3
+ii  libstdc++6-4.6-dev               4.6.3-1ubuntu5                      GNU Standard C++ Library v3 (development files)
+ii  libsubunit-perl                  0.0.18-0ubuntu7~cloud0              perl parser and diff for Subunit streams
+ii  libswitch-perl                   2.16-2                              switch statement for Perl
+ii  libtasn1-3                       2.10-1ubuntu1.2                     Manage ASN.1 structures (runtime)
+ii  libtext-charwidth-perl           0.04-7build1                        get display widths of characters on the terminal
+ii  libtext-iconv-perl               1.7-5                               converts between character sets in Perl
+ii  libtext-wrapi18n-perl            0.06-7                              internationalized substitute of Text::Wrap
+ii  libtimedate-perl                 1.2000-1                            collection of modules to manipulate date/time information
+ii  libtinfo5                        5.9-4                               shared low-level terminfo library for terminal handling
+ii  libudev0                         175-0ubuntu9                        udev library
+ii  libunistring0                    0.9.3-5                             Unicode string library for C
+ii  liburi-perl                      1.59-1                              module to manipulate and access URI strings
+ii  libusb-0.1-4                     2:0.1.12-20                         userspace USB programming library
+ii  libuuid1                         2.20.1-1ubuntu3                     Universally Unique ID library
+ii  libvirt-bin                      1.2.2-0ubuntu13.1.6~cloud2          programs for the libvirt library
+ii  libvirt0                         1.2.2-0ubuntu13.1.6~cloud2          library for interfacing with different virtualization systems
+ii  libwind0-heimdal                 1.6~git20120311.dfsg.1-2ubuntu0.1   Heimdal Kerberos - stringprep implementation
+ii  libwrap0                         7.6.q-21                            Wietse Venema's TCP wrappers library
+ii  libwww-perl                      6.03-1                              simple and consistent interface to the world-wide web
+ii  libwww-robotrules-perl           6.01-1                              database of robots.txt-derived permissions
+ii  libx11-6                         2:1.4.99.1-0ubuntu2                 X11 client-side library
+ii  libx11-data                      2:1.4.99.1-0ubuntu2                 X11 client-side library
+ii  libx86-1                         1.1+ds1-7ubuntu1                    x86 real-mode library
+ii  libxau6                          1:1.0.6-4                           X11 authorisation library
+ii  libxcb1                          1.8.1-1                             X C Binding
+ii  libxdmcp6                        1:1.1.0-4                           X11 Display Manager Control Protocol library
+ii  libxen-4.4                       4.4.0-0ubuntu5.2~cloud0             Public libs for Xen
+ii  libxenstore3.0                   4.4.0-0ubuntu5.2~cloud0             Xenstore communications library for Xen
+ii  libxext6                         2:1.3.0-3build1                     X11 miscellaneous extension library
+ii  libxml-parser-perl               2.41-1build1                        Perl module for parsing XML files
+ii  libxml2                          2.7.8.dfsg-5.1ubuntu4.11            GNOME XML library
+ii  libxml2-utils                    2.7.8.dfsg-5.1ubuntu4.11            XML utilities
+ii  libxmuu1                         2:1.1.0-3                           X11 miscellaneous micro-utility library
+ii  libxslt1.1                       1.1.26-8ubuntu1.3                   XSLT 1.0 processing library - runtime library
+ii  libyajl1                         1.0.12-2                            Yet Another JSON Library
+ii  libyaml-0-2                      0.1.4-2ubuntu0.12.04.4              Fast YAML 1.1 parser and emitter library
+ii  libzmq1                          2.1.11-1ubuntu1                     ZeroMQ lightweight messaging kernel (shared library)
+ii  linux-libc-dev                   3.2.0-75.110                        Linux Kernel Headers for development
+ii  locales                          2.13+git20120306-3                  common files for locale support
+ii  lockfile-progs                   0.1.16                              Programs for locking and unlocking files and mailboxes
+ii  login                            1:4.1.4.2+svn3283-3ubuntu5          system login tools
+ii  logrotate                        3.7.8-6ubuntu5                      Log rotation utility
+ii  lsb-base                         4.0-0ubuntu20                       Linux Standard Base 4.0 init script functionality
+ii  lsb-release                      4.0-0ubuntu20                       Linux Standard Base version reporting utility
+ii  m4                               1.4.16-2ubuntu1                     a macro processing language
+ii  make                             3.81-8.1ubuntu1.1                   An utility for Directing compilation.
+ii  makedev                          2.3.1-89ubuntu2                     creates device files in /dev
+ii  man-db                           2.6.1-2ubuntu2                      on-line manual pager
+ii  manpages                         3.35-0.1ubuntu1                     Manual pages about using a GNU/Linux system
+ii  manpages-dev                     3.35-0.1ubuntu1                     Manual pages about using GNU/Linux for development
+ii  mawk                             1.3.3-17                            a pattern scanning and text processing language
+ii  mime-support                     3.51-1ubuntu1                       MIME files 'mime.types' & 'mailcap', and support programs
+ii  module-init-tools                3.16-1ubuntu2                       tools for managing Linux kernel modules
+ii  mount                            2.20.1-1ubuntu3                     Tools for mounting and manipulating filesystems
+ii  mountall                         2.36                                filesystem mounting tool
+ii  multiarch-support                2.15-0ubuntu10                      Transitional package to ensure multiarch compatibility
+ii  mysql-common                     5.5.40-0ubuntu0.12.04.1             MySQL database common files, e.g. /etc/mysql/my.cnf
+ii  ncurses-base                     5.9-4                               basic terminal type definitions
+ii  ncurses-bin                      5.9-4                               terminal-related programs and man pages
+ii  net-tools                        1.60-24.1ubuntu2                    The NET-3 networking toolkit
+ii  netbase                          4.47ubuntu1                         Basic TCP/IP networking system
+ii  netcat-openbsd                   1.89-4ubuntu1                       TCP/IP swiss army knife
+ii  ntpdate                          1:4.2.6.p3+dfsg-1ubuntu3            client for setting system time from NTP servers
+ii  openssh-client                   1:5.9p1-5ubuntu1                    secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                   1:5.9p1-5ubuntu1                    secure shell (SSH) server, for secure access from remote machines
+ii  openssl                          1.0.1-4ubuntu3                      Secure Socket Layer (SSL) binary and related cryptographic tools
+ii  parted                           2.3-8ubuntu5.2                      disk partition manipulator
+ii  passwd                           1:4.1.4.2+svn3283-3ubuntu5          change and administer password and group data
+ii  patch                            2.6.1-3                             Apply a diff file to an original
+ii  perl                             5.14.2-6ubuntu2.4                   Larry Wall's Practical Extraction and Report Language
+ii  perl-base                        5.14.2-6ubuntu2.4                   minimal Perl system
+ii  perl-modules                     5.14.2-6ubuntu2.4                   Core Perl modules
+ii  plymouth                         0.8.2-2ubuntu30                     graphical boot animation and logger - main package
+ii  pm-utils                         1.4.1-9fix.ubuntu12.04              utilities and scripts for power management
+ii  po-debconf                       1.0.16+nmu2ubuntu1                  tool for managing templates file translations with gettext
+ii  powermgmt-base                   1.31                                Common utils and configs for power management
+ii  procps                           1:3.2.8-11ubuntu6                   /proc file system utilities
+ii  python                           2.7.3-0ubuntu2.2                    interactive high-level object-oriented language (default version)
+ii  python-all                       2.7.3-0ubuntu2.2                    package depending on all supported Python runtime versions
+ii  python-all-dev                   2.7.3-0ubuntu2.2                    package depending on all supported Python development packages
+ii  python-amqp                      1.3.3-1ubuntu1~cloud0               Low-level AMQP client
+ii  python-amqplib                   1.0.0+ds-1                          simple non-threaded Python AMQP client library
+ii  python-anyjson                   0.3.3-1build1~cloud0                Common interface for the best available JSON implementation
+ii  python-babel                     1.3+dfsg.1-2ubuntu2~cloud0          tools for internationalizing Python applications - Python 2.x
+ii  python-babel-localedata          1.3+dfsg.1-2ubuntu2~cloud0          tools for internationalizing Python applications - locale data files
+ii  python-boto                      2.20.1-2ubuntu2~cloud0              Python interface to Amazon's Web Services
+ii  python-bs4                       4.0.2-1                             error-tolerant HTML parser for Python
+ii  python-bson                      2.6.3-1build1~cloud0                Python implementation of BSON for MongoDB
+ii  python-chardet                   2.0.1-2build1                       universal character encoding detector
+ii  python-cinderclient              1:1.0.8-0ubuntu1~cloud0             python bindings to the OpenStack Volume API
+ii  python-cliff                     1.4.5-1ubuntu2~cloud0               command line interface formulation framework - Python 2.x
+ii  python-cmd2                      0.6.7-2fakesync1build1~cloud0       enhanced Python cmd module - Python 2.x
+ii  python-concurrent.futures        2.1.6-3~cloud0                      backport of concurrent.futures package from Python 3.2
+ii  python-coverage                  3.7.1+dfsg.1-1ubuntu2~cloud0        code coverage tool for Python 2
+ii  python-crypto                    2.6.1-4build1~cloud0                cryptographic algorithms and protocols for Python
+ii  python-d2to1                     0.2.11-1build1~cloud0               Python support for distutils2-like setup.cfg files as package metadata
+ii  python-decorator                 3.3.2-1                             simplify usage of Python decorators by programmers
+ii  python-dev                       2.7.3-0ubuntu2.2                    header files and a static library for Python (default)
+ii  python-distutils-extra           2.34-0ubuntu0.1                     enhancements to the Python build system
+ii  python-docutils                  0.8.1-4ubuntu1                      text processing system for reStructuredText (implemented in Python 2)
+ii  python-dogpile.cache             0.5.1-0ubuntu2~cloud0               caching API built around the concept of a "dogpile lock"
+ii  python-dogpile.core              0.4.1-0ubuntu3~cloud0               ´dogpile´ lock, part of a typically larger caching solution.
+ii  python-eventlet                  0.13.0-1ubuntu2~cloud0              concurrent networking library for Python
+ii  python-extras                    0.0.3-2ubuntu1~cloud0               extensions to the Python standard library (Python 2.x)
+ii  python-feedparser                5.1-0ubuntu3.1                      Universal Feed Parser for Python
+ii  python-fixtures                  0.3.14-1ubuntu2~cloud0              PyUnit extension for defining test fixtures outside of test cases - Python 2.x
+ii  python-formencode                1.2.4-2ubuntu2                      validation and form generation Python package
+ii  python-glanceclient              1:0.12.0-0ubuntu1~cloud0            Client library for Openstack glance server.
+ii  python-greenlet                  0.4.2-1build1~cloud0                Lightweight in-process concurrent programming
+ii  python-hp3parclient              3.0.0-0ubuntu1~cloud0               client library that can talk to the HP 3PAR Storage array
+ii  python-hplefthandclient          1.0.1-1ubuntu1~cloud0               HP LeftHand/StoreVirtual HTTP REST Client - Python 2.x
+ii  python-httplib2                  0.7.2-1ubuntu2.1                    comprehensive HTTP client library written for Python
+ii  python-ipaddr                    2.1.10-1                            Python module for working with IP addresses, both IPv4 and IPv6
+ii  python-iso8601                   0.1.10-0ubuntu1~cloud0              python module to parse ISO 8601 dates (python2)
+ii  python-jinja2                    2.6-1ubuntu0.1                      small but fast and easy to use stand-alone template engine
+ii  python-json-patch                1.3-4~cloud0                        library to apply JSON patches - python 2.x transitional package
+ii  python-json-pointer              1.0-2build1~cloud0                  resolve JSON pointers - python 2.x
+ii  python-jsonpatch                 1.3-4~cloud0                        library to apply JSON patches - python 2.x
+ii  python-jsonschema                2.3.0-1build1~cloud0                An(other) implementation of JSON Schema (Draft 3) for Python
+ii  python-keystoneclient            1:0.7.1-ubuntu1~cloud0              Client library for OpenStack Identity API
+ii  python-kombu                     3.0.7-1ubuntu1~cloud0               AMQP Messaging Framework for Python
+ii  python-ldap                      2.3.13-1build1                      LDAP interface module for Python
+ii  python-librabbitmq               1.0.3-0ubuntu1~cloud0               AMQP Client using the rabbitmq-c library
+ii  python-libvirt                   1.2.2-0ubuntu2~cloud0               libvirt Python bindings
+ii  python-lockfile                  1:0.8-2ubuntu1                      file locking library for Python
+ii  python-lxml                      2.3.2-1ubuntu0.2                    pythonic binding for the libxml2 and libxslt libraries
+ii  python-mako                      0.9.1-1~cloud0                      fast and lightweight templating for the Python platform
+ii  python-markupsafe                0.15-1                              XML/HTML/XHTML Markup safe string for Python
+ii  python-memcache                  1.48-1                              pure python memcached client
+ii  python-migrate                   0.8.2-3ubuntu1~cloud0               Database schema migration for SQLAlchemy
+ii  python-mimeparse                 0.1.4-1build1~cloud0                Parse mime-types and quality parameters - python 2.x
+ii  python-minimal                   2.7.3-0ubuntu2.2                    minimal subset of the Python language (default version)
+ii  python-mock                      1.0.1-3~cloud0                      Mocking and Testing Library
+ii  python-mox                       0.5.3-1ubuntu5                      a mock object framework for Python
+ii  python-mysqldb                   1.2.3-1ubuntu0.1                    Python interface to MySQL
+ii  python-netaddr                   0.7.10-1build1~cloud0               manipulation of various common network address notations (Python 2)
+ii  python-netifaces                 0.6-2ubuntu1                        portable network interface information for Python
+ii  python-networkx                  1.8.1-0ubuntu3~cloud1               tool to create, manipulate and study complex networks
+ii  python-neutronclient             1:2.3.4-0ubuntu1~cloud0             client - Neutron is a virtual network service for Openstack
+ii  python-novaclient                1:2.17.0-0ubuntu1~cloud0            client library for OpenStack Compute API
+ii  python-numpy                     1:1.6.1-6ubuntu1                    Numerical Python adds a fast array facility to the Python language
+ii  python-oauthlib                  0.6.1-1~cloud1                      generic, spec-compliant implementation of OAuth for Python
+ii  python-openssl                   0.12-1ubuntu2.1                     Python wrapper around the OpenSSL library
+ii  python-oslo.config               1:1.2.1-0ubuntu2~cloud0             Common code for Openstack Projects (configuration API)
+ii  python-oslo.messaging            1.3.0-0ubuntu1~cloud0               oslo messaging library
+ii  python-oslo.rootwrap             1.2.0-0ubuntu1~cloud0               Fine filtering of shell commands as 'root'
+ii  python-oslosphinx                2.0-0ubuntu2~cloud0                 theme and extension support for openstack
+ii  python-oslotest                  0.1-1ubuntu3~cloud0                 OpenStack test framework - Python 2.x
+ii  python-pam                       0.4.2-12.2ubuntu4                   A Python interface to the PAM library
+ii  python-paramiko                  1.10.1-1git1build1~cloud0           Make ssh v2 connections with Python (Python 2)
+ii  python-passlib                   1.5.3-0ubuntu1                      comprehensive password hashing framework
+ii  python-paste                     1.7.5.1-4ubuntu2                    tools for using a Web Server Gateway Interface stack
+ii  python-pastedeploy               1.5.0-2build1                       load, configure, and compose WSGI applications and servers
+ii  python-pbr                       0.7.0-0ubuntu2~cloud0               inject useful and sensible default behaviors into setuptools - Python 2.x
+ii  python-pecan                     0.3.0-1ubuntu2~cloud0               WSGI object-dispatching web framework
+ii  python-pkg-resources             0.6.24-1ubuntu1                     Package Discovery and Resource Access using pkg_resources
+ii  python-prettytable               0.7.2-2ubuntu2~cloud0               library to represent tabular data in visually appealing ASCII tables
+ii  python-pyasn1                    0.0.11a-1ubuntu1                    ASN.1 library for Python
+ii  python-pycadf                    0.4.1-0ubuntu1.1~cloud0             implementation of DMTF Cloud Audit (CADF) data model
+ii  python-pygments                  1.4+dfsg-2                          syntax highlighting package written in Python
+ii  python-pymongo                   2.6.3-1build1~cloud0                Python interface to the MongoDB document-oriented database
+ii  python-pyparsing                 2.0.1+dfsg1-1build1~cloud0          Python parsing module
+ii  python-qpid                      0.12-2                              Python bindings for qpid/mlib
+ii  python-requests                  2.2.1-1ubuntu0.1~cloud0             elegant and simple HTTP library for Python, built for human beings
+ii  python-roman                     0.8.1-4ubuntu1                      module for generating/analyzing Roman numerals for Python 2
+ii  python-routes                    1.12.3-1ubuntu1                     Routing Recognition and Generation Tools
+ii  python-setuptools                0.6.24-1ubuntu1                     Python Distutils Enhancements (setuptools compatibility)
+ii  python-simplegeneric             0.8.1-1~cloud0                      simple generic functions for Python
+ii  python-simplejson                3.3.1-1ubuntu6~cloud0               simple, fast, extensible JSON encoder/decoder for Python
+ii  python-six                       1.5.2-1~cloud0                      Python 2 and 3 compatibility library (Python 2 interface)
+ii  python-sphinx                    1.1.3+dfsg-2ubuntu2.1               documentation generator for Python projects (implemented in Python 2)
+ii  python-sqlalchemy                0.8.4-1build1~cloud0                SQL toolkit and Object Relational Mapper for Python
+ii  python-sqlalchemy-ext            0.8.4-1build1~cloud0                SQL toolkit and Object Relational Mapper for Python - C extension
+ii  python-stevedore                 0.14.1-1~cloud0                     manage dynamic plugins for Python applications - python2
+ii  python-subunit                   0.0.18-0ubuntu7~cloud0              unit testing protocol - Python bindings to generate and consume streams
+ii  python-suds                      0.4.1-2ubuntu1.1                    Lightweight SOAP client for Python
+ii  python-swiftclient               1:2.0.3-0ubuntu1~cloud0             Client library for Openstack Swift API.
+ii  python-taskflow                  0.1.3-0ubuntu3~cloud0               Taskflow structured state management library.
+ii  python-tempita                   0.5.1-1build1                       very small text templating language
+ii  python-testrepository            0.0.18-1ubuntu1~cloud0              Database of test results - python library (python2)
+ii  python-testscenarios             0.4-2ubuntu2~cloud0                 Dependency injection for Python unittest tests (python2)
+ii  python-testtools                 0.9.35-0ubuntu1~cloud0              Extensions to the Python unittest library (Python 2.x)
+ii  python-tz                        2012c-1build1~cloud0                Python version of the Olson timezone database
+ii  python-urllib3                   1.7.1-1build1~cloud1                HTTP library with thread-safe connection pooling for Python
+ii  python-waitress                  0.8.8-1ubuntu3~cloud1               production-quality pure-Python WSGI server
+ii  python-warlock                   1.1.0-0ubuntu2~cloud0               object model built on top of JSON schema - python 2.x
+ii  python-webob                     1.3.1-1~cloud1                      Python module providing WSGI request and response objects (Python 2)
+ii  python-webtest                   2.0.14-1ubuntu1~cloud1              wraps any WSGI application and makes it easy to test
+ii  python-wsme                      0.6-0ubuntu1~cloud0                 Web Services Made Easy makes it easy to implement multi-protocol webservices
+ii  python-yaml                      3.10-2ubuntu0.1                     YAML parser and emitter for Python
+ii  python-zmq                       2.1.11-1                            Python bindings for 0MQ library
+ii  python2.7                        2.7.3-0ubuntu3.6                    Interactive high-level object-oriented language (version 2.7)
+ii  python2.7-dev                    2.7.3-0ubuntu3.6                    Header files and a static library for Python (v2.7)
+ii  python2.7-minimal                2.7.3-0ubuntu3.6                    Minimal subset of the Python language (version 2.7)
+ii  readline-common                  6.2-8                               GNU readline and history libraries, common files
+ii  resolvconf                       1.63ubuntu11                        name server information handler
+ii  rsyslog                          5.8.6-1ubuntu8                      reliable system and kernel logging daemon
+ii  sed                              4.2.1-9                             The GNU sed stream editor
+ii  sensible-utils                   0.0.6ubuntu2                        Utilities for sensible alternative selection
+ii  sgml-base                        1.26+nmu1ubuntu1                    SGML infrastructure and SGML catalog file support
+ii  sphinx-common                    1.1.3+dfsg-2ubuntu2.1               documentation generator for Python projects - common data
+ii  sqlite3                          3.7.9-2ubuntu1.1                    Command line interface for SQLite 3
+ii  ssh-import-id                    2.10-0ubuntu1                       securely retrieve an SSH public key and install it locally
+ii  subunit                          0.0.18-0ubuntu7~cloud0              command line tools for processing Subunit streams
+ii  sudo                             1.8.3p1-1ubuntu3                    Provide limited super user privileges to specific users
+ii  sysv-rc                          2.88dsf-13.10ubuntu11               System-V-like runlevel change mechanism
+ii  sysvinit-utils                   2.88dsf-13.10ubuntu11               System-V-like utilities
+ii  tar                              1.26-4ubuntu1                       GNU version of the tar archiving utility
+ii  tcpd                             7.6.q-21                            Wietse Venema's TCP wrapper utilities
+ii  testrepository                   0.0.18-1ubuntu1~cloud0              Test result manager
+ii  tzdata                           2012b-1                             time zone and daylight-saving time data
+ii  ubuntu-keyring                   2011.11.21                          GnuPG keys of the Ubuntu archive
+ii  ubuntu-minimal                   1.267                               Minimal core of Ubuntu
+ii  ucf                              3.0025+nmu2ubuntu1                  Update Configuration File: preserve user changes to config files.
+ii  udev                             175-0ubuntu9                        rule-based device node and kernel event manager
+ii  upstart                          1.5-0ubuntu5                        event-based init daemon
+ii  ureadahead                       0.100.0-12                          Read required files in advance
+ii  util-linux                       2.20.1-1ubuntu3                     Miscellaneous system utilities
+ii  vbetool                          1.1-2ubuntu1                        run real-mode video BIOS code to alter hardware state
+ii  vim                              2:7.3.429-2ubuntu2                  Vi IMproved - enhanced vi editor
+ii  vim-common                       2:7.3.429-2ubuntu2                  Vi IMproved - Common files
+ii  vim-runtime                      2:7.3.429-2ubuntu2                  Vi IMproved - Runtime files
+ii  vim-tiny                         2:7.3.429-2ubuntu2                  Vi IMproved - enhanced vi editor - compact version
+ii  websockify                       0.5.1+dfsg1-3ubuntu0.14.04.1~cloud0 WebSockets support for any application/server
+ii  wget                             1.13.4-2ubuntu1                     retrieves files from the web
+ii  whiptail                         0.52.11-2ubuntu10                   Displays user-friendly dialog boxes from shell scripts
+ii  xauth                            1:1.0.6-1                           X authentication utility
+ii  xkb-data                         2.5-1ubuntu1                        X Keyboard Extension (XKB) configuration data
+ii  xml-core                         0.13                                XML infrastructure and XML catalog file support
+ii  xz-utils                         5.1.1alpha+20110809-3               XZ-format compression utilities
+ii  zlib1g                           1:1.2.3.4.dfsg-3ubuntu4             compression library - runtime
+ii  zlib1g-dev                       1:1.2.3.4.dfsg-3ubuntu4             compression library - development
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                             Version                             Description

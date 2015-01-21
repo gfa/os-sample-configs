@@ -1,0 +1,5 @@
+ii  python-libvirt                   1.1.1-0ubuntu8.11~cloud0   libvirt Python bindings
+ii  python-oslo.config               1:1.2.1-0ubuntu1~cloud0    Common code for Openstack Projects (configuration API)
+ii  python-oslo.sphinx               1.0-0ubuntu1~cloud0        theme and extension support for openstack
+ii  python-qpid                      0.12-2                     Python bindings for qpid/mlib
+ii  python-zmq                       2.1.11-1                   Python bindings for 0MQ library

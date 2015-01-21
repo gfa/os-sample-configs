@@ -1,0 +1,14 @@
+ii  python-heatclient               0.2.12-1~bpo70+1             all          client library and CLI for OpenStack Heat
+ii  python-libvirt                  1.2.8-1~bpo70+1              amd64        libvirt Python bindings
+ii  python-oslo.config              1:1.4.0.0-2~bpo70+1          all          Common code for Openstack Projects (configuration API) - Python 2.x
+ii  python-oslo.db                  1.0.2-1~bpo70+1              all          database connectivity to the different backends and helper utils - Python 2.x
+ii  python-oslo.i18n                1.0.0-1~bpo70+1              all          Oslo Internationalization Utilities - Python 2.x
+ii  python-oslo.messaging           1.4.1-2~bpo70+1              all          oslo messaging library
+ii  python-oslo.rootwrap            1.3.0.0-1~bpo70+1            all          allows fine filtering of shell commands to run as root - Python 2.x
+ii  python-oslo.serialization       1.0.0-1~bpo70+1              all          utilities for serialization , especially JSON - Python 2.x
+ii  python-oslo.utils               1.0.0-1~bpo70+1              all          set of utility functions for OpenStack - Python 2.x
+ii  python-oslo.vmware              0.6.0-1~bpo70+1              all          VMware library for OpenStack projects - Python 2.x
+ii  python-oslosphinx               2.2.0.0-1~bpo70+1            all          theme and extension support for openstack
+ii  python-oslotest                 1.1.0.0-1~bpo70+1            all          OpenStack test framework - Python 2.x
+ii  python-qpid                     0.16-1                       all          Python bindings for qpid/mlib
+ii  python-zmq                      14.3.1-1~bpo70+1             amd64        Python bindings for 0MQ library
