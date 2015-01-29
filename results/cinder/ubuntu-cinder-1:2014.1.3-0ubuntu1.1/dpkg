@@ -1,4 +1,4 @@
-ii  python-cinderclient              1:1.0.8-0ubuntu1              all          python bindings to the OpenStack Volume API
+ii  python-cinderclient              1:1.0.8-0ubuntu2              all          python bindings to the OpenStack Volume API
 ii  python-librabbitmq               1.0.3-0ubuntu1                amd64        AMQP Client using the rabbitmq-c library
 ii  python-libvirt                   1.2.2-0ubuntu2                amd64        libvirt Python bindings
 ii  python-oslo.config               1:1.2.1-0ubuntu2              all          Common code for Openstack Projects (configuration API)

@@ -111,10 +111,10 @@ ii  libboost-thread1.49.0           1.49.0-3.2                   amd64        po
 ii  libbrlapi0.5:amd64              4.4-10+deb7u1                amd64        braille display access via BRLTTY - shared library
 ii  libbsd0:amd64                   0.4.2-1                      amd64        utility functions from BSD systems - shared library
 ii  libbz2-1.0:amd64                1.0.6-4                      amd64        high-quality block-sorting file compressor library - runtime
-ii  libc-bin                        2.13-38+deb7u6               amd64        Embedded GNU C Library: Binaries
-ii  libc-dev-bin                    2.13-38+deb7u6               amd64        Embedded GNU C Library: Development binaries
-ii  libc6-dev:amd64                 2.13-38+deb7u6               amd64        Embedded GNU C Library: Development Libraries and Header Files
-ii  libc6:amd64                     2.13-38+deb7u6               amd64        Embedded GNU C Library: Shared libraries
+ii  libc-bin                        2.13-38+deb7u7               amd64        Embedded GNU C Library: Binaries
+ii  libc-dev-bin                    2.13-38+deb7u7               amd64        Embedded GNU C Library: Development binaries
+ii  libc6-dev:amd64                 2.13-38+deb7u7               amd64        Embedded GNU C Library: Development Libraries and Header Files
+ii  libc6:amd64                     2.13-38+deb7u7               amd64        Embedded GNU C Library: Shared libraries
 ii  libcaca0:amd64                  0.99.beta18-1                amd64        colour ASCII art library
 ii  libcap-ng0                      0.6.6-2                      amd64        An alternate POSIX capabilities library
 ii  libcap2:amd64                   1:2.22-1.2                   amd64        support for getting/setting POSIX.1e capabilities
@@ -175,7 +175,7 @@ ii  libmagic1:amd64                 5.11-2+deb7u7                amd64        Fi
 ii  libmount1                       2.20.1-5.3                   amd64        block device id library
 ii  libmpc2:amd64                   0.9-4                        amd64        multiple precision complex floating-point library
 ii  libmpfr4:amd64                  3.1.0-5                      amd64        multiple precision floating-point computation
-ii  libmysqlclient18:amd64          5.5.40-0+wheezy1             amd64        MySQL database client library
+ii  libmysqlclient18:amd64          5.5.41-0+wheezy1             amd64        MySQL database client library
 ii  libncurses5:amd64               5.9-10                       amd64        shared libraries for terminal handling
 ii  libncursesw5:amd64              5.9-10                       amd64        shared libraries for terminal handling (wide character support)
 ii  libnetcf1                       0.1.9-2                      amd64        cross-platform network configuration library
@@ -273,7 +273,7 @@ ii  libxapian22                     1.2.12-2                     amd64        Se
 ii  libxau6:amd64                   1:1.0.7-1                    amd64        X11 authorisation library
 ii  libxcb1:amd64                   1.8.1-2+deb7u1               amd64        X C Binding
 ii  libxdmcp6:amd64                 1:1.1.1-1                    amd64        X11 Display Manager Control Protocol library
-ii  libxen-4.1                      4.1.4-3+deb7u3               amd64        Public libs for Xen
+ii  libxen-4.1                      4.1.4-3+deb7u4               amd64        Public libs for Xen
 ii  libxenstore3.0:amd64            4.4.0-5~bpo70+1              amd64        Xenstore communications library for Xen
 ii  libxext6:amd64                  2:1.3.1-2+deb7u1             amd64        X11 miscellaneous extension library
 ii  libxi6:amd64                    2:1.6.1-1+deb7u1             amd64        X11 Input extension library
@@ -300,7 +300,7 @@ ii  mime-support                    3.52-1+deb7u1                all          MI
 ii  module-init-tools               9-3                          all          transitional dummy package (module-init-tools to kmod)
 ii  mount                           2.20.1-5.3                   amd64        Tools for mounting and manipulating filesystems
 ii  multiarch-support               2.13-38+deb7u6               amd64        Transitional package to ensure multiarch compatibility
-ii  mysql-common                    5.5.40-0+wheezy1             all          MySQL database common files, e.g. /etc/mysql/my.cnf
+ii  mysql-common                    5.5.41-0+wheezy1             all          MySQL database common files, e.g. /etc/mysql/my.cnf
 ii  nano                            2.2.6-1+b1                   amd64        small, friendly text editor inspired by Pico
 ii  ncurses-base                    5.9-10                       all          basic terminal type definitions
 ii  ncurses-bin                     5.9-10                       amd64        terminal-related programs and man pages

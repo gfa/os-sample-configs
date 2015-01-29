@@ -100,10 +100,10 @@ ii  libblkid1                        2.20.1-1ubuntu3                     block d
 ii  libboost-thread1.46.1            1.46.1-7ubuntu3                     portable C++ multi-threading
 ii  libbsd0                          0.3.0-2                             utility functions from BSD systems - shared library
 ii  libbz2-1.0                       1.0.6-1                             high-quality block-sorting file compressor library - runtime
-ii  libc-bin                         2.15-0ubuntu10.9                    Embedded GNU C Library: Binaries
-ii  libc-dev-bin                     2.15-0ubuntu10.9                    Embedded GNU C Library: Development binaries
-ii  libc6                            2.15-0ubuntu10.9                    Embedded GNU C Library: Shared libraries
-ii  libc6-dev                        2.15-0ubuntu10.9                    Embedded GNU C Library: Development Libraries and Header Files
+ii  libc-bin                         2.15-0ubuntu10.10                   Embedded GNU C Library: Binaries
+ii  libc-dev-bin                     2.15-0ubuntu10.10                   Embedded GNU C Library: Development binaries
+ii  libc6                            2.15-0ubuntu10.10                   Embedded GNU C Library: Shared libraries
+ii  libc6-dev                        2.15-0ubuntu10.10                   Embedded GNU C Library: Development Libraries and Header Files
 ii  libcap-ng0                       0.6.6-1ubuntu1                      An alternate POSIX capabilities library
 ii  libclass-isa-perl                0.36-3                              report the search path for a class's ISA tree
 ii  libcomerr2                       1.42-1ubuntu2                       common error description library
@@ -171,7 +171,7 @@ ii  libmagic1                        5.09-2                              File ty
 ii  libmount1                        2.20.1-1ubuntu3                     block device id library
 ii  libmpc2                          0.9-4                               multiple precision complex floating-point library
 ii  libmpfr4                         3.1.0-3ubuntu2                      multiple precision floating-point computation
-ii  libmysqlclient18                 5.5.40-0ubuntu0.12.04.1             MySQL database client library
+ii  libmysqlclient18                 5.5.41-0ubuntu0.12.04.1             MySQL database client library
 ii  libncurses5                      5.9-4                               shared libraries for terminal handling
 ii  libncursesw5                     5.9-4                               shared libraries for terminal handling (wide character support)
 ii  libnet-http-perl                 6.02-1                              module providing low-level HTTP connection client
@@ -275,7 +275,7 @@ ii  module-init-tools                3.16-1ubuntu2                       tools f
 ii  mount                            2.20.1-1ubuntu3                     Tools for mounting and manipulating filesystems
 ii  mountall                         2.36                                filesystem mounting tool
 ii  multiarch-support                2.15-0ubuntu10                      Transitional package to ensure multiarch compatibility
-ii  mysql-common                     5.5.40-0ubuntu0.12.04.1             MySQL database common files, e.g. /etc/mysql/my.cnf
+ii  mysql-common                     5.5.41-0ubuntu0.12.04.1             MySQL database common files, e.g. /etc/mysql/my.cnf
 ii  ncurses-base                     5.9-4                               basic terminal type definitions
 ii  ncurses-bin                      5.9-4                               terminal-related programs and man pages
 ii  net-tools                        1.60-24.1ubuntu2                    The NET-3 networking toolkit

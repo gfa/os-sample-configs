@@ -345,7 +345,7 @@ ii  python-babel                     1.3+dfsg.1-2ubuntu2          all          t
 ii  python-babel-localedata          1.3+dfsg.1-2ubuntu2          all          tools for internationalizing Python applications - locale data files
 ii  python-boto                      2.20.1-2ubuntu2              all          Python interface to Amazon's Web Services
 ii  python-chardet                   2.0.1-2build2                all          universal character encoding detector
-ii  python-cinderclient              1:1.0.8-0ubuntu1             all          python bindings to the OpenStack Volume API
+ii  python-cinderclient              1:1.0.8-0ubuntu2             all          python bindings to the OpenStack Volume API
 ii  python-cliff                     1.4.5-1ubuntu2               all          command line interface formulation framework - Python 2.x
 ii  python-cmd2                      0.6.7-2fakesync1build1       all          enhanced Python cmd module - Python 2.x
 ii  python-coverage                  3.7.1+dfsg.1-1ubuntu2        amd64        code coverage tool for Python 2

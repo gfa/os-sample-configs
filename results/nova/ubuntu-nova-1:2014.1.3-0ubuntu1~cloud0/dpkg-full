@@ -98,10 +98,10 @@ ii  libblkid1                        2.20.1-1ubuntu3                     block d
 ii  libboost-thread1.46.1            1.46.1-7ubuntu3                     portable C++ multi-threading
 ii  libbsd0                          0.3.0-2                             utility functions from BSD systems - shared library
 ii  libbz2-1.0                       1.0.6-1                             high-quality block-sorting file compressor library - runtime
-ii  libc-bin                         2.15-0ubuntu10.9                    Embedded GNU C Library: Binaries
-ii  libc-dev-bin                     2.15-0ubuntu10.9                    Embedded GNU C Library: Development binaries
-ii  libc6                            2.15-0ubuntu10.9                    Embedded GNU C Library: Shared libraries
-ii  libc6-dev                        2.15-0ubuntu10.9                    Embedded GNU C Library: Development Libraries and Header Files
+ii  libc-bin                         2.15-0ubuntu10.10                   Embedded GNU C Library: Binaries
+ii  libc-dev-bin                     2.15-0ubuntu10.10                   Embedded GNU C Library: Development binaries
+ii  libc6                            2.15-0ubuntu10.10                   Embedded GNU C Library: Shared libraries
+ii  libc6-dev                        2.15-0ubuntu10.10                   Embedded GNU C Library: Development Libraries and Header Files
 ii  libcap-ng0                       0.6.6-1ubuntu1                      An alternate POSIX capabilities library
 ii  libclass-isa-perl                0.36-3                              report the search path for a class's ISA tree
 ii  libcomerr2                       1.42-1ubuntu2                       common error description library

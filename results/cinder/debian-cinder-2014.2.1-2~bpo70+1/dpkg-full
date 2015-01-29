@@ -17,6 +17,7 @@ ii  bsdutils                        1:2.20.1-5.3                 amd64        Ba
 ii  build-essential                 11.5                         amd64        Informational list of build-essential packages
 ii  bzip2                           1.0.6-4                      amd64        high-quality block-sorting file compressor - utilities
 ii  ca-certificates                 20130119+deb7u1              all          Common CA certificates
+ii  ceilometer-common               2014.2.1-2~bpo70+1           all          OpenStack efficient metering counters system - common files
 ii  consolekit                      0.4.5-3.1                    amd64        framework for defining and tracking users, sessions and seats
 ii  coreutils                       8.13-3.5                     amd64        GNU core utilities
 ii  cpio                            2.11+dfsg-0.1+deb7u1         amd64        GNU cpio -- a program to manage archives of files
@@ -74,6 +75,7 @@ ii  ipxe-qemu                       1.0.0+git-20120202.f6840ba-3 all          PX
 ii  ipython                         0.13.1-2+deb7u1              all          enhanced interactive Python shell
 ii  isc-dhcp-client                 4.2.2.dfsg.1-5+deb70u6       amd64        ISC DHCP client
 ii  isc-dhcp-common                 4.2.2.dfsg.1-5+deb70u6       amd64        common files used by all the isc-dhcp* packages
+ii  javascript-common               7                            all          Base support for javascript library packages
 ii  kmod                            9-3                          amd64        tools for managing Linux kernel modules
 ii  krb5-locales                    1.10.1+dfsg-5+deb7u2         all          Internationalization support for MIT Kerberos
 ii  libacl1:amd64                   2.2.51-8                     amd64        Access control list shared library
@@ -101,10 +103,10 @@ ii  libboost-thread1.49.0           1.49.0-3.2                   amd64        po
 ii  libbrlapi0.5:amd64              4.4-10+deb7u1                amd64        braille display access via BRLTTY - shared library
 ii  libbsd0:amd64                   0.4.2-1                      amd64        utility functions from BSD systems - shared library
 ii  libbz2-1.0:amd64                1.0.6-4                      amd64        high-quality block-sorting file compressor library - runtime
-ii  libc-bin                        2.13-38+deb7u6               amd64        Embedded GNU C Library: Binaries
-ii  libc-dev-bin                    2.13-38+deb7u6               amd64        Embedded GNU C Library: Development binaries
-ii  libc6-dev:amd64                 2.13-38+deb7u6               amd64        Embedded GNU C Library: Development Libraries and Header Files
-ii  libc6:amd64                     2.13-38+deb7u6               amd64        Embedded GNU C Library: Shared libraries
+ii  libc-bin                        2.13-38+deb7u7               amd64        Embedded GNU C Library: Binaries
+ii  libc-dev-bin                    2.13-38+deb7u7               amd64        Embedded GNU C Library: Development binaries
+ii  libc6-dev:amd64                 2.13-38+deb7u7               amd64        Embedded GNU C Library: Development Libraries and Header Files
+ii  libc6:amd64                     2.13-38+deb7u7               amd64        Embedded GNU C Library: Shared libraries
 ii  libcaca0:amd64                  0.99.beta18-1                amd64        colour ASCII art library
 ii  libcap-ng0                      0.6.6-2                      amd64        An alternate POSIX capabilities library
 ii  libcap2:amd64                   1:2.22-1.2                   amd64        support for getting/setting POSIX.1e capabilities
@@ -148,6 +150,7 @@ ii  libiscsi1:amd64                 1.4.0-3                      amd64        iS
 ii  libitm1:amd64                   4.7.2-5                      amd64        GNU Transactional Memory Library
 ii  libjpeg8:amd64                  8d-1+deb7u1                  amd64        Independent JPEG Group's JPEG runtime library
 ii  libjs-jquery                    1.7.2+dfsg-1                 all          JavaScript library for dynamic web applications
+ii  libjs-mochikit                  1.4.2-4                      all          JavaScript library inspired by Python
 ii  libjs-sphinxdoc                 1.2.2+dfsg-2~bpo70+1         all          JavaScript support for Sphinx documentation
 ii  libjs-underscore                1.4.4-2~bpo70+1              all          JavaScript's functional programming helper library
 ii  libjson0:amd64                  0.10-1.2                     amd64        JSON manipulation library - shared library
@@ -164,7 +167,7 @@ ii  libmagic1:amd64                 5.11-2+deb7u7                amd64        Fi
 ii  libmount1                       2.20.1-5.3                   amd64        block device id library
 ii  libmpc2:amd64                   0.9-4                        amd64        multiple precision complex floating-point library
 ii  libmpfr4:amd64                  3.1.0-5                      amd64        multiple precision floating-point computation
-ii  libmysqlclient18:amd64          5.5.40-0+wheezy1             amd64        MySQL database client library
+ii  libmysqlclient18:amd64          5.5.41-0+wheezy1             amd64        MySQL database client library
 ii  libncurses5:amd64               5.9-10                       amd64        shared libraries for terminal handling
 ii  libncursesw5:amd64              5.9-10                       amd64        shared libraries for terminal handling (wide character support)
 ii  libnetcf1                       0.1.9-2                      amd64        cross-platform network configuration library
@@ -214,6 +217,8 @@ ii  libsepol1:amd64                 2.1.4-3                      amd64        SE
 ii  libsigc++-2.0-0c2a:amd64        2.2.10-0.2                   amd64        type-safe Signal Framework for C++ - runtime
 ii  libslang2:amd64                 2.2.4-15                     amd64        S-Lang programming library - runtime version
 ii  libsm6:amd64                    2:1.2.1-2                    amd64        X11 Session Management library
+ii  libsmi2-common                  0.4.8+dfsg2-7                all          library to access SMI MIB information - MIB module files
+ii  libsmi2ldbl:amd64               0.4.8+dfsg2-7                amd64        library to access SMI MIB information
 ii  libsndfile1:amd64               1.0.25-5                     amd64        Library for reading/writing audio files
 ii  libspice-server1:amd64          0.12.4-0nocelt2~bpo70+1      amd64        Implements the server side of the SPICE protocol
 ii  libsqlite3-0:amd64              3.7.13-1+deb7u1              amd64        SQLite 3 shared library
@@ -256,7 +261,7 @@ ii  libxapian22                     1.2.12-2                     amd64        Se
 ii  libxau6:amd64                   1:1.0.7-1                    amd64        X11 authorisation library
 ii  libxcb1:amd64                   1.8.1-2+deb7u1               amd64        X C Binding
 ii  libxdmcp6:amd64                 1:1.1.1-1                    amd64        X11 Display Manager Control Protocol library
-ii  libxen-4.1                      4.1.4-3+deb7u3               amd64        Public libs for Xen
+ii  libxen-4.1                      4.1.4-3+deb7u4               amd64        Public libs for Xen
 ii  libxenstore3.0:amd64            4.4.0-5~bpo70+1              amd64        Xenstore communications library for Xen
 ii  libxext6:amd64                  2:1.3.1-2+deb7u1             amd64        X11 miscellaneous extension library
 ii  libxi6:amd64                    2:1.6.1-1+deb7u1             amd64        X11 Input extension library
@@ -284,7 +289,7 @@ ii  mawk                            1.3.3-17                     amd64        a 
 ii  mime-support                    3.52-1+deb7u1                all          MIME files 'mime.types' & 'mailcap', and support programs
 ii  mount                           2.20.1-5.3                   amd64        Tools for mounting and manipulating filesystems
 ii  multiarch-support               2.13-38+deb7u6               amd64        Transitional package to ensure multiarch compatibility
-ii  mysql-common                    5.5.40-0+wheezy1             all          MySQL database common files, e.g. /etc/mysql/my.cnf
+ii  mysql-common                    5.5.41-0+wheezy1             all          MySQL database common files, e.g. /etc/mysql/my.cnf
 ii  nano                            2.2.6-1+b1                   amd64        small, friendly text editor inspired by Pico
 ii  ncurses-base                    5.9-10                       all          basic terminal type definitions
 ii  ncurses-bin                     5.9-10                       amd64        terminal-related programs and man pages
@@ -320,18 +325,25 @@ ii  python-babel                    1.3+dfsg.1-3~bpo70+1         all          to
 ii  python-babel-localedata         1.3+dfsg.1-3~bpo70+1         all          tools for internationalizing Python applications - locale data files
 ii  python-barbicanclient           2.2.1-2~bpo70+1              all          OpenStack Key Management API client - Python 2.x
 ii  python-bashate                  0.2.0-1~bpo70+1              all          bash script style guide checker - Python 2.x
+ii  python-blinker                  1.3.dfsg1-1~bpo70+1          all          Fast, simple object-to-object and broadcast signaling library
 ii  python-boto                     2.32.1-1.1~bpo70+1           all          Python interface to Amazon's Web Services - Python 2.x
 ii  python-bs4                      4.1.0-1                      all          error-tolerant HTML parser for Python
 ii  python-bson                     2.6.2-1~bpo70+1              amd64        Python implementation of BSON for MongoDB
+ii  python-bson-ext                 2.6.2-1~bpo70+1              amd64        C-coded extension to the python-bson package
+ii  python-ceilometer               2014.2.1-2~bpo70+1           all          OpenStack efficient metering counters system - Python libraries
+ii  python-ceilometerclient         1.0.10-1~bpo70+1             all          Client library for Openstack Ceilometer API server
 ii  python-chardet                  2.0.1-2                      all          universal character encoding detector
 ii  python-cinderclient             1:1.1.1-1~bpo70+1            all          Python bindings to the OpenStack Volume API
 ii  python-cliff                    1.7.0-2~bpo70+1              all          command line interface formulation framework - Python 2.x
+ii  python-cliff-doc                1.7.0-2~bpo70+1              all          command line interface formulation framework documentation
 ii  python-cmd2                     0.6.7-1.1~bpo70+1            all          enhanced Python cmd module - Python 2.x
 ii  python-colorama                 0.2.5-0.1~bpo70+1            all          Cross-platform colored terminal text in Python - Python 2.x
 ii  python-concurrent.futures       2.2.0-1~bpo70+1              all          backport of concurrent.futures package from Python 3.2
 ii  python-configobj                4.7.2+ds-4                   all          simple but powerful config file reader and writer for Python
 ii  python-coverage                 3.7+dfsg.1-3~bpo70+1         amd64        code coverage tool for Python 2
+ii  python-croniter                 0.3.4-1~bpo70+1              all          provides iteration for datetime object with cron like format - Python 2.x
 ii  python-crypto                   2.6.1-2~bpo70+1              amd64        cryptographic algorithms and protocols for Python
+ii  python-cssselect                0.6.1-1                      all          cssselect parses CSS3 Selectors and translates them to XPath 1.0
 ii  python-d2to1                    0.2.11-1~bpo70+1             all          Python support for distutils2-like setup.cfg files as package metadata
 ii  python-daemon                   1.5.5-1                      all          library for making a Unix daemon process
 ii  python-dateutil                 1.5+dfsg-0.1                 all          powerful extensions to the standard datetime module
@@ -347,17 +359,23 @@ ii  python-extras                   0.0.3-4~bpo70+1              all          ex
 ii  python-feedparser               5.1.2-1                      all          Universal Feed Parser for Python
 ii  python-fixtures                 0.3.14-2~bpo70+1             all          PyUnit extension for defining test fixtures outside of test cases - Python 2.x
 ii  python-flake8                   2.1.0-1~bpo70+1              amd64        code checker using pep8 and pyflakes
+ii  python-flask                    0.10.1-2~bpo70+1             all          micro web framework based on Werkzeug, Jinja2 and good intentions
 ii  python-formencode               1.2.4-2                      all          validation and form generation Python package
-ii  python-glanceclient             1:0.14.1-1~bpo70+1           all          Client library for Openstack glance server
+ii  python-glanceclient             1:0.15.0-1~bpo70+1           all          Client library for Openstack glance server
 ii  python-greenlet                 0.4.2-1~bpo70+1              amd64        Lightweight in-process concurrent programming
+ii  python-gridfs                   2.6.2-1~bpo70+1              all          Python implementation of GridFS for MongoDB
 ii  python-hacking                  0.8.1-4~bpo70+1              all          Flake8 OpenStack Hacking Guidelines Enforcement plugins - Python 2.x
+ii  python-happybase                0.8-2~bpo70+1                all          developer-friendly Python library to interact with Apache HBase
 ii  python-httplib2                 0.8-2~bpo70+1                all          comprehensive HTTP client library written for Python
+ii  python-ipaddr                   2.1.10-1                     all          Python module for working with IP addresses, both IPv4 and IPv6
 ii  python-ironicclient             0.3.0-1~bpo70+1              all          Client for OpenStack bare metal Service
 ii  python-iso8601                  0.1.10-0.1~bpo70+1           all          python module to parse ISO 8601 dates - Python 2.x
+ii  python-itsdangerous             0.22-1~bpo70+1               all          Various helpers to pass trusted data to untrusted environment - python 2.x
 ii  python-jinja2                   2.7.3-1~bpo70+1              all          small but fast and easy to use stand-alone template engine
 ii  python-json-patch               1.3-5~bpo70+1                all          library to apply JSON patches - python 2.x transitional package
 ii  python-json-pointer             1.0-2~bpo70+1                all          resolve JSON pointers - python 2.x
 ii  python-jsonpatch                1.3-5~bpo70+1                all          library to apply JSON patches - python 2.x
+ii  python-jsonpath-rw              1.2.0-1~bpo70+1              all          extended implementation of JSONPath for Python 2.x
 ii  python-jsonschema               2.3.0-1~bpo70+1              all          An(other) implementation of JSON Schema (Draft 3) for Python
 ii  python-kazoo                    1.3.1-1~bpo70+1              all          higher level API to Apache Zookeeper (Python 2)
 ii  python-keyring                  2.1-1~bpo70+1                all          store and access your passwords safely
@@ -383,6 +401,7 @@ ii  python-minimal                  2.7.3-4+deb7u1               all          mi
 ii  python-mock                     1.0.1-3~bpo70+1              all          Mocking and Testing Library
 ii  python-mox                      0.5.3-3                      all          mock object framework for Python
 ii  python-mox3                     0.7.0-2~bpo70+1              all          Mock object framework - Python 2.x
+ii  python-msgpack                  0.4.2-1~bpo70+1              amd64        Python implementation of MessagePack format
 ii  python-mysqldb                  1.2.3-2                      amd64        Python interface to MySQL
 ii  python-netaddr                  0.7.12-1~bpo70+1             all          manipulation of various common network address notations (Python 2)
 ii  python-netifaces                0.10.4-0.1~bpo70+1           amd64        portable network interface information - Python 2.x
@@ -394,6 +413,7 @@ ii  python-nosexcover               1.0.7-1                      all          Ad
 ii  python-novaclient               2:2.18.1-1~bpo70+1           all          client library for OpenStack Compute API
 ii  python-numpy                    1:1.6.2-1.2                  amd64        Numerical Python adds a fast array facility to the Python language
 ii  python-oauthlib                 0.6.1-1~bpo70+1              all          generic, spec-compliant implementation of OAuth for Python
+ii  python-openid                   2.2.5-3                      all          OpenID support for servers and consumers
 ii  python-openssl                  0.13-2+deb7u1                amd64        Python 2 wrapper around the OpenSSL library
 ii  python-openstack.nose-plugin    0.11-1~bpo70+1               all          nosetests output to mimic the output of openstack's run_tests.py - Python 2.x
 ii  python-ordereddict              1.1-1~bpo70+1                all          A drop-in substitute for Py2.7's new collections.OrderedDict
@@ -414,29 +434,41 @@ ii  python-passlib                  1.5.3-2                      all          co
 ii  python-paste                    1.7.5.1-6~bpo70+1            all          tools for using a Web Server Gateway Interface stack
 ii  python-pastedeploy              1.5.0-5~bpo70+1              all          load, configure, and compose WSGI applications and servers
 ii  python-pastedeploy-tpl          1.5.0-5~bpo70+1              all          load, configure, and compose WSGI applications and servers - templates
+ii  python-pastescript              1.7.5-2                      all          serving web applications, creating file layouts for Python packages
 ii  python-pbr                      0.10.0-1~bpo70+1             all          inject useful and sensible default behaviors into setuptools - Python 2.x
 ii  python-pecan                    0.6.1-2~bpo70+1              all          WSGI object-dispatching web framework - Python 2.x
 ii  python-pexpect                  3.1-1~bpo70+1                all          Python module for automating interactive applications
 ii  python-pip                      1.4.1-2~bpo70+1              all          alternative Python package installer
 ii  python-pkg-resources            5.5.1-1~bpo70+2              all          Package Discovery and Resource Access using pkg_resources
+ii  python-ply                      3.4-3                        all          Lex and Yacc implementation for Python2
 ii  python-posix-ipc                0.9.8-2~bpo70+1              amd64        semaphores, shared memory and message queues - Python 2.x
 ii  python-prettytable              0.7.2-2~bpo70+1              all          library to represent tabular data in visually appealing ASCII tables
 ii  python-psycopg2                 2.5.4+dfsg-1~bpo70+1         amd64        Python module for PostgreSQL
 ii  python-pyasn1                   0.1.7-1~bpo70+1              all          ASN.1 library for Python (Python 2 module)
 ii  python-pycadf                   0.6.0-1~bpo70+1              all          implementation of DMTF Cloud Audit (CADF) data model
 ii  python-pygments                 1.5+dfsg-1                   all          syntax highlighting package written in Python
+ii  python-pyinotify                0.9.3-1.1                    all          simple Linux inotify Python bindings
+ii  python-pymemcache               1.2.4-2~bpo70+1              all          comprehensive, fast, pure Python memcached client - Python 2.x
 ii  python-pymongo                  2.6.2-1~bpo70+1              amd64        Python interface to the MongoDB document-oriented database
+ii  python-pymongo-ext              2.6.2-1~bpo70+1              amd64        C-coded extension to the python-pymongo package
 ii  python-pyparsing                2.0.1+dfsg1-1~bpo70+1        all          Python parsing module
+ii  python-pyquery                  1.2.1-1                      all          jQuery-like library for python
 ii  python-pysaml2                  2.0.0-1~bpo70+1              all          SAML Version 2 to be used in a WSGI environment - Python 2.x
+ii  python-pysnmp4                  4.2.2-1                      all          Python SNMP library for agents and managers (unstable branch)
+ii  python-pysnmp4-apps             0.3.2-1                      all          Applications for the Python SNMP library
+ii  python-pysnmp4-mibs             0.1.3-1                      all          MIBs for the Python SNMP library
 ii  python-pysqlite2                2.6.3-3                      amd64        Python interface to SQLite 3
 ii  python-qpid                     0.16-1                       all          Python bindings for qpid/mlib
 ii  python-repoze.lru               0.5-2                        all          tiny LRU cache implementation and decorator
 ii  python-repoze.who               1.0.18-2                     all          identification and authentication framework for Python WSGI applications
 ii  python-requests                 2.3.0-1~bpo70+2              all          elegant and simple HTTP library for Python, built for human beings
+ii  python-retrying                 1.2.3-2~bpo70+1              all          simplifies the task of adding retry behavior - Python 2.x
 ii  python-rfc3986                  0.2.0-2~bpo70+1              all          validating URI references per RFC 3986 - Python 2.x
 ii  python-roman                    0.8.1-8                      all          module for generating/analyzing Roman numerals for Python 2
 ii  python-routes                   1.13-2                       all          Routing Recognition and Generation Tools
 ii  python-rtslib-fb                2.1.45-4~bpo70+1             all          object API for managing the Linux LIO kernel target - Python 2.x
+ii  python-scgi                     1.13-1+b2                    amd64        Server-side implementation of the SCGI protocol
+ii  python-serial                   2.5-2.1                      all          pyserial - module encapsulating access for the serial port
 ii  python-setuptools               5.5.1-1~bpo70+2              all          Python Distutils Enhancements
 ii  python-simplegeneric            0.8.1-1                      all          simple generic functions for Python
 ii  python-simplejson               3.3.0-3~bpo70+1              amd64        simple, fast, extensible JSON encoder/decoder for Python
@@ -444,17 +476,32 @@ ii  python-singledispatch           3.4.0.2-1~bpo70+1            all          si
 ii  python-six                      1.7.3-1~bpo70+1              all          Python 2 and 3 compatibility library (Python 2 interface)
 ii  python-sphinx                   1.2.2+dfsg-2~bpo70+1         all          documentation generator for Python projects (implemented in Python 2)
 ii  python-sqlalchemy               0.8.4-1~bpo70+1              all          SQL toolkit and Object Relational Mapper for Python
+ii  python-sqlalchemy-ext           0.8.4-1~bpo70+1              amd64        SQL toolkit and Object Relational Mapper for Python - C extension
 ii  python-stevedore                1.0.0-2~bpo70+1              all          manage dynamic plugins for Python applications - python2
 ii  python-subunit                  0.0.18-5~bpo70+1             all          unit testing protocol - Python bindings to generate and consume streams
 ii  python-suds                     0.4.1-5+deb7u1               all          Lightweight SOAP client for Python
 ii  python-support                  1.0.15                       all          automated rebuilding support for Python modules
 ii  python-swiftclient              1:2.3.1-1~bpo70+1            all          Client library for Openstack Swift API
+ii  python-sysv-ipc                 0.6.8-2~bpo70+1              amd64        semaphores, shared memory and message queues - Python 2.x
 ii  python-taskflow                 0.4.0-2~bpo70+1              all          Taskflow structured state management library
 ii  python-tempita                  0.5.1-1                      all          very small text templating language
 ii  python-termcolor                1.1.0-1~bpo70+1              all          ANSII Color formatting for output in terminal - Python 2.x
 ii  python-testrepository           0.0.18-4~bpo70+1             all          Database of test results - Python 2.x library
 ii  python-testscenarios            0.4-3~bpo70+1                all          Dependency injection for Python unittest tests - Python 2.x
 ii  python-testtools                0.9.35-1~bpo70+1             all          Extensions to the Python unittest library - Python 2.x
+ii  python-thrift                   0.9.0-1~bpo70+1              amd64        Python library for Thrift
+ii  python-tooz                     0.4-1~bpo70+1                all          coordination library for distributed systems - Python 2.x
+ii  python-twisted                  12.0.0-1                     all          Event-based framework for internet applications (dependency package)
+ii  python-twisted-bin              12.0.0-1                     amd64        Event-based framework for internet applications
+ii  python-twisted-conch            1:12.0.0-1                   all          Twisted SSH Implementation
+ii  python-twisted-core             12.0.0-1                     all          Event-based framework for internet applications
+ii  python-twisted-lore             12.0.0-1                     all          Documentation generator with HTML and LaTeX support
+ii  python-twisted-mail             12.0.0-1                     all          SMTP, IMAP and POP protocol implementation
+ii  python-twisted-names            12.0.0-1                     all          DNS protocol implementation with client and server
+ii  python-twisted-news             12.0.0-1                     all          NNTP protocol implementation with client and server
+ii  python-twisted-runner           12.0.0-1                     amd64        Process management, including an inetd server
+ii  python-twisted-web              12.0.0-1                     all          HTTP protocol implementation together with clients and servers
+ii  python-twisted-words            12.0.0-1                     all          Chat and Instant Messaging
 ii  python-tz                       2012c-1                      all          Python version of the Olson timezone database
 ii  python-unittest2                0.5.1-1                      all          backport of the enhanced unittest testing framework in Python 2.7
 ii  python-urllib3                  1.8.3-1~bpo70+1              all          HTTP library with thread-safe connection pooling for Python
@@ -462,8 +509,11 @@ ii  python-waitress                 0.8.8-1~bpo70+1              all          pr
 ii  python-warlock                  1.0.1-2~bpo70+1              all          object model built on top of JSON schema - python 2.x
 ii  python-webob                    1.2.3-4~bpo70+1              all          Python module providing WSGI request and response objects (Python 2)
 ii  python-webtest                  2.0.14-1~bpo70+1             all          wraps any WSGI application and makes it easy to test
+ii  python-werkzeug                 0.9.3+dfsg-2~bpo70+1         all          collection of utilities for WSGI applications
+ii  python-wsme                     0.6-3~bpo70+1                all          Web Services Made Easy: implement multi-protocol webservices - Python 2.x
 ii  python-xattr                    0.6.4-2                      amd64        module for manipulating filesystem extended attributes
 ii  python-yaml                     3.10-4+deb7u1                amd64        YAML parser and emitter for Python
+ii  python-zake                     0.1.6-1~bpo70+1              all          provides a set of testing utilities for the kazoo library - Python 2.x
 ii  python-zmq                      14.3.1-1~bpo70+1             amd64        Python bindings for 0MQ library
 ii  python-zope.interface           4.0.5-1~bpo70+1              amd64        Interfaces for Python
 ii  python2.6                       2.6.8-1.1                    amd64        Interactive high-level object-oriented language (version 2.6)
@@ -518,6 +568,7 @@ ii  vim-tiny                        2:7.3.547-7                  amd64        Vi
 ii  websockify                      0.6.0+dfsg1-1~bpo70+1        amd64        WebSockets support for any application/server
 ii  wget                            1.13.4-3+deb7u2              amd64        retrieves files from the web
 ii  whiptail                        0.52.14-11.1                 amd64        Displays user-friendly dialog boxes from shell scripts
+ii  wwwconfig-common                0.2.2                        all          Debian web auto configuration
 ii  x11-common                      1:7.7+3~deb7u1               all          X Window System (X.Org) infrastructure
 ii  xauth                           1:1.0.7-1                    amd64        X authentication utility
 ii  xml-core                        0.13+nmu2                    all          XML infrastructure and XML catalog file support

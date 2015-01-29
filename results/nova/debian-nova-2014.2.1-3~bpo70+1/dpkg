@@ -5,6 +5,7 @@ ii  python-oslo.db                  1.0.2-1~bpo70+1              all          da
 ii  python-oslo.i18n                1.0.0-1~bpo70+1              all          Oslo Internationalization Utilities - Python 2.x
 ii  python-oslo.messaging           1.4.1-2~bpo70+1              all          oslo messaging library
 ii  python-oslo.rootwrap            1.3.0.0-1~bpo70+1            all          allows fine filtering of shell commands to run as root - Python 2.x
+ii  python-oslo.serialization       1.0.0-1~bpo70+1              all          utilities for serialization , especially JSON - Python 2.x
 ii  python-oslo.utils               1.0.0-1~bpo70+1              all          set of utility functions for OpenStack - Python 2.x
 ii  python-oslo.vmware              0.6.0-1~bpo70+1              all          VMware library for OpenStack projects - Python 2.x
 ii  python-oslosphinx               2.2.0.0-1~bpo70+1            all          theme and extension support for openstack

@@ -357,7 +357,7 @@ ii  python-boto                      2.20.1-2ubuntu2               all          
 ii  python-bs4                       4.2.1-1ubuntu2                all          error-tolerant HTML parser for Python
 ii  python-bson                      2.6.3-1build1                 amd64        Python implementation of BSON for MongoDB
 ii  python-chardet                   2.0.1-2build2                 all          universal character encoding detector
-ii  python-cinderclient              1:1.0.8-0ubuntu1              all          python bindings to the OpenStack Volume API
+ii  python-cinderclient              1:1.0.8-0ubuntu2              all          python bindings to the OpenStack Volume API
 ii  python-cliff                     1.4.5-1ubuntu2                all          command line interface formulation framework - Python 2.x
 ii  python-cmd2                      0.6.7-2fakesync1build1        all          enhanced Python cmd module - Python 2.x
 ii  python-coverage                  3.7.1+dfsg.1-1ubuntu2         amd64        code coverage tool for Python 2

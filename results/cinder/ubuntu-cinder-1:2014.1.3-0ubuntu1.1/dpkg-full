@@ -198,7 +198,7 @@ ii  libmount1:amd64                  2.20.1-5.1ubuntu20            amd64        
 ii  libmpc3:amd64                    1.0.1-1ubuntu1                amd64        multiple precision complex floating-point library
 ii  libmpdec2:amd64                  2.4.0-6                       amd64        library for decimal floating point arithmetic (runtime library)
 ii  libmpfr4:amd64                   3.1.2-1                       amd64        multiple precision floating-point computation
-ii  libmysqlclient18:amd64           5.5.40-0ubuntu0.14.04.1       amd64        MySQL database client library
+ii  libmysqlclient18:amd64           5.5.41-0ubuntu0.14.04.1       amd64        MySQL database client library
 ii  libncurses5:amd64                5.9+20140118-1ubuntu1         amd64        shared libraries for terminal handling
 ii  libncursesw5:amd64               5.9+20140118-1ubuntu1         amd64        shared libraries for terminal handling (wide character support)
 ii  libnet-http-perl                 6.06-1                        all          module providing low-level HTTP connection client
@@ -325,7 +325,7 @@ ii  module-init-tools                15-0ubuntu6                   all          
 ii  mount                            2.20.1-5.1ubuntu20            amd64        Tools for mounting and manipulating filesystems
 ii  mountall                         2.53                          amd64        filesystem mounting tool
 ii  multiarch-support                2.19-0ubuntu6                 amd64        Transitional package to ensure multiarch compatibility
-ii  mysql-common                     5.5.40-0ubuntu0.14.04.1       all          MySQL database common files, e.g. /etc/mysql/my.cnf
+ii  mysql-common                     5.5.41-0ubuntu0.14.04.1       all          MySQL database common files, e.g. /etc/mysql/my.cnf
 ii  ncurses-base                     5.9+20140118-1ubuntu1         all          basic terminal type definitions
 ii  ncurses-bin                      5.9+20140118-1ubuntu1         amd64        terminal-related programs and man pages
 ii  ncurses-term                     5.9+20140118-1ubuntu1         all          additional terminal type definitions
@@ -360,7 +360,7 @@ ii  python-boto                      2.20.1-2ubuntu2               all          
 ii  python-bs4                       4.2.1-1ubuntu2                all          error-tolerant HTML parser for Python
 ii  python-bson                      2.6.3-1build1                 amd64        Python implementation of BSON for MongoDB
 ii  python-chardet                   2.0.1-2build2                 all          universal character encoding detector
-ii  python-cinderclient              1:1.0.8-0ubuntu1              all          python bindings to the OpenStack Volume API
+ii  python-cinderclient              1:1.0.8-0ubuntu2              all          python bindings to the OpenStack Volume API
 ii  python-cliff                     1.4.5-1ubuntu2                all          command line interface formulation framework - Python 2.x
 ii  python-cmd2                      0.6.7-2fakesync1build1        all          enhanced Python cmd module - Python 2.x
 ii  python-concurrent.futures        2.1.6-3                       all          backport of concurrent.futures package from Python 3.2
