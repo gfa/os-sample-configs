@@ -76,13 +76,14 @@ EOF
         deb-src [arch=amd64] http://$APT_MIRROR/$DISTRIB-cloud-archive/ $openstack_release main
         deb-src [arch=amd64] http://$APT_MIRROR/$DISTRIB-cloud-archive/ $openstack_release-backports main
 EOF
+extras='ceilometer-common'
     fi
 fi
 
 # having, or not, installed libvirt, qpid or zmq won't change the result, but better be safe than sorry
 apt-get update
 DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true apt-get -y install eatmydata
-DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true eatmydata apt-get -y install websockify python-libvirt python-zmq python-qpid dpkg-dev eatmydata
+DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true eatmydata apt-get -y install websockify python-libvirt python-zmq python-qpid dpkg-dev $extras
 
 for daemon in ${DAEMONS}
     do
