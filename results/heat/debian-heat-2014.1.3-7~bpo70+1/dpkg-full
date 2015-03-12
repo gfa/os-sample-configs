@@ -27,7 +27,7 @@ ii  cpp                                 4:4.7.2-1                    amd64      
 ii  cpp-4.7                             4.7.2-5                      amd64        GNU C preprocessor
 ii  cron                                3.0pl1-124                   amd64        process scheduling daemon
 ii  dash                                0.5.7-3                      amd64        POSIX-compliant shell
-ii  dbus                                1.6.8-1+deb7u5               amd64        simple interprocess messaging system (daemon and utilities)
+ii  dbus                                1.6.8-1+deb7u6               amd64        simple interprocess messaging system (daemon and utilities)
 ii  debconf                             1.5.49                       all          Debian configuration management system
 ii  debconf-i18n                        1.5.49                       all          full internationalization support for debconf
 ii  debhelper                           9.20120909                   all          helper programs for debian/rules
@@ -116,10 +116,10 @@ ii  libboost1.49-dev                    1.49.0-3.2                   amd64      
 ii  libbrlapi0.5:amd64                  4.4-10+deb7u1                amd64        braille display access via BRLTTY - shared library
 ii  libbsd0:amd64                       0.4.2-1                      amd64        utility functions from BSD systems - shared library
 ii  libbz2-1.0:amd64                    1.0.6-4                      amd64        high-quality block-sorting file compressor library - runtime
-ii  libc-bin                            2.13-38+deb7u7               amd64        Embedded GNU C Library: Binaries
-ii  libc-dev-bin                        2.13-38+deb7u7               amd64        Embedded GNU C Library: Development binaries
-ii  libc6-dev:amd64                     2.13-38+deb7u7               amd64        Embedded GNU C Library: Development Libraries and Header Files
-ii  libc6:amd64                         2.13-38+deb7u7               amd64        Embedded GNU C Library: Shared libraries
+ii  libc-bin                            2.13-38+deb7u8               amd64        Embedded GNU C Library: Binaries
+ii  libc-dev-bin                        2.13-38+deb7u8               amd64        Embedded GNU C Library: Development binaries
+ii  libc6-dev:amd64                     2.13-38+deb7u8               amd64        Embedded GNU C Library: Development Libraries and Header Files
+ii  libc6:amd64                         2.13-38+deb7u8               amd64        Embedded GNU C Library: Shared libraries
 ii  libcaca0:amd64                      0.99.beta18-1                amd64        colour ASCII art library
 ii  libcap-ng0                          0.6.6-2                      amd64        An alternate POSIX capabilities library
 ii  libcap2:amd64                       1:2.22-1.2                   amd64        support for getting/setting POSIX.1e capabilities
@@ -131,7 +131,7 @@ ii  libcrypto++9                        5.6.1-6                      amd64      
 ii  libcurl3-gnutls:amd64               7.26.0-1+wheezy12            amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii  libcwidget3                         0.5.16-3.4                   amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdb5.1:amd64                      5.1.29-5                     amd64        Berkeley v5.1 Database Libraries [runtime]
-ii  libdbus-1-3:amd64                   1.6.8-1+deb7u5               amd64        simple interprocess messaging system (library)
+ii  libdbus-1-3:amd64                   1.6.8-1+deb7u6               amd64        simple interprocess messaging system (library)
 ii  libdbus-glib-1-2:amd64              0.100.2-1                    amd64        simple interprocess messaging system (GLib-based shared library)
 ii  libdevmapper-event1.02.1:amd64      2:1.02.74-8                  amd64        Linux Kernel Device Mapper event support library
 ii  libdevmapper1.02.1:amd64            2:1.02.74-8                  amd64        Linux Kernel Device Mapper userspace library
@@ -215,7 +215,7 @@ ii  libpolkit-agent-1-0:amd64           0.105-3                      amd64      
 ii  libpolkit-backend-1-0:amd64         0.105-3                      amd64        PolicyKit backend API
 ii  libpolkit-gobject-1-0:amd64         0.105-3                      amd64        PolicyKit Authorization API
 ii  libpopt0:amd64                      1.16-7                       amd64        lib for parsing cmdline parameters
-ii  libpq5                              9.1.14-0+deb7u1              amd64        PostgreSQL C client library
+ii  libpq5                              9.1.15-0+deb7u1              amd64        PostgreSQL C client library
 ii  libprocps0:amd64                    1:3.3.3-3                    amd64        library for accessing process information from /proc
 ii  libpulse0:amd64                     2.0-6.1                      amd64        PulseAudio client libraries
 ii  libpython2.6                        2.6.8-1.1                    amd64        Shared Python runtime library (version 2.6)
@@ -245,7 +245,7 @@ ii  libsndfile1:amd64                   1.0.25-5                     amd64      
 ii  libspice-server1:amd64              0.12.4-0nocelt2~bpo70+1      amd64        Implements the server side of the SPICE protocol
 ii  libsqlite3-0:amd64                  3.7.13-1+deb7u1              amd64        SQLite 3 shared library
 ii  libss2:amd64                        1.42.5-1.1                   amd64        command-line interface parsing library
-ii  libssh2-1:amd64                     1.4.2-1.1                    amd64        SSH2 client-side library
+ii  libssh2-1:amd64                     1.4.2-1.1+deb7u1             amd64        SSH2 client-side library
 ii  libssl-dev                          1.0.1e-2+deb7u14             amd64        SSL development libraries, header files and documentation
 ii  libssl1.0.0:amd64                   1.0.1e-2+deb7u14             amd64        SSL shared libraries
 ii  libstdc++6-4.7-dev                  4.7.2-5                      amd64        GNU Standard C++ Library v3 (development files)
@@ -289,13 +289,13 @@ ii  libxapian22                         1.2.12-2                     amd64      
 ii  libxau6:amd64                       1:1.0.7-1                    amd64        X11 authorisation library
 ii  libxcb1:amd64                       1.8.1-2+deb7u1               amd64        X C Binding
 ii  libxdmcp6:amd64                     1:1.1.1-1                    amd64        X11 Display Manager Control Protocol library
-ii  libxen-4.1                          4.1.4-3+deb7u4               amd64        Public libs for Xen
+ii  libxen-4.1                          4.1.4-3+deb7u5               amd64        Public libs for Xen
 ii  libxenstore3.0:amd64                4.4.0-5~bpo70+1              amd64        Xenstore communications library for Xen
 ii  libxext6:amd64                      2:1.3.1-2+deb7u1             amd64        X11 miscellaneous extension library
 ii  libxi6:amd64                        2:1.6.1-1+deb7u1             amd64        X11 Input extension library
-ii  libxml2-dev:amd64                   2.8.0+dfsg1-7+wheezy2        amd64        Development files for the GNOME XML library
-ii  libxml2-utils                       2.8.0+dfsg1-7+wheezy2        amd64        XML utilities
-ii  libxml2:amd64                       2.8.0+dfsg1-7+wheezy2        amd64        GNOME XML library
+ii  libxml2-dev:amd64                   2.8.0+dfsg1-7+wheezy3        amd64        Development files for the GNOME XML library
+ii  libxml2-utils                       2.8.0+dfsg1-7+wheezy3        amd64        XML utilities
+ii  libxml2:amd64                       2.8.0+dfsg1-7+wheezy3        amd64        GNOME XML library
 ii  libxmuu1:amd64                      2:1.1.1-1                    amd64        X11 miscellaneous micro-utility library
 ii  libxslt1-dev                        1.1.26-14.1                  amd64        XSLT 1.0 processing library - development kit
 ii  libxslt1.1:amd64                    1.1.26-14.1                  amd64        XSLT 1.0 processing library - runtime library
@@ -303,7 +303,7 @@ ii  libxtst6:amd64                      2:1.2.1-1+deb7u1             amd64      
 ii  libyajl2                            2.0.4-2                      amd64        Yet Another JSON Library
 ii  libyaml-0-2:amd64                   0.1.4-3.2~bpo70+1            amd64        Fast YAML 1.1 parser and emitter library
 ii  libzmq1:amd64                       2.2.0+dfsg-2                 amd64        lightweight messaging kernel (shared library)
-ii  linux-libc-dev:amd64                3.2.65-1+deb7u1              amd64        Linux support headers for userspace development
+ii  linux-libc-dev:amd64                3.2.65-1+deb7u2              amd64        Linux support headers for userspace development
 ii  locales                             2.13-38+deb7u6               all          Embedded GNU C Library: National Language (locale) data [support]
 ii  login                               1:4.1.5.1-1                  amd64        system login tools
 ii  logrotate                           3.8.1-4                      amd64        Log rotation utility
@@ -414,7 +414,7 @@ ii  python-kombu                        2.5.15-1~bpo70+1             all        
 ii  python-ldap                         2.4.10-1                     amd64        LDAP interface module for Python
 ii  python-librabbitmq                  1.0.1-1~bpo70+1              amd64        AMQP Client using the rabbitmq-c library
 ii  python-libvirt                      1.2.1-2~bpo70+1              amd64        libvirt Python bindings
-ii  python-libxml2                      2.8.0+dfsg1-7+wheezy2        amd64        Python bindings for the GNOME XML library
+ii  python-libxml2                      2.8.0+dfsg1-7+wheezy3        amd64        Python bindings for the GNOME XML library
 ii  python-lockfile                     1:0.8-2                      all          file locking library for Python
 ii  python-logilab-astng                0.23.1-1                     all          rebuild a new abstract syntax tree (AST) from Python's ast
 ii  python-logilab-common               0.58.0-1                     all          useful miscellaneous modules used by Logilab projects
@@ -556,7 +556,7 @@ ii  sharutils                           1:4.11.1-1                   amd64      
 ii  sphinx-common                       1.1.3+dfsg-8~bpo70+1         all          documentation generator for Python projects - common data
 ii  sqlite3                             3.7.13-1+deb7u1              amd64        Command line interface for SQLite 3
 ii  subunit                             0.0.18-5~bpo70+1             all          command line tools for processing Subunit streams
-ii  sudo                                1.8.5p2-1+nmu1               amd64        Provide limited super user privileges to specific users
+ii  sudo                                1.8.5p2-1+nmu2               amd64        Provide limited super user privileges to specific users
 ii  sysv-rc                             2.88dsf-41+deb7u1            all          System-V-like runlevel change mechanism
 ii  sysvinit                            2.88dsf-41+deb7u1            amd64        System-V-like init utilities
 ii  sysvinit-utils                      2.88dsf-41+deb7u1            amd64        System-V-like utilities
