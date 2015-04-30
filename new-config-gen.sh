@@ -6,8 +6,8 @@ set -x
 cd /storage/vm/lxc
 
 DISTRIB=${1:-ubuntu}
-RELEASE=${2:-precise}
-openstack_release=${3:-icehouse}
+RELEASE=${2:-trusty}
+openstack_release=${3:-juno}
 
 mountpoint -q config-gen/proc && sudo umount config-gen/proc
 
