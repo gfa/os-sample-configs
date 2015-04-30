@@ -38,7 +38,7 @@ ii  dmidecode                           2.11-9                       amd64      
 ii  dmsetup                             2:1.02.74-8                  amd64        Linux Kernel Device Mapper userspace library
 ii  docutils-common                     0.10-3~bpo70+1               all          text processing system for reStructuredText - common data
 ii  dpkg                                1.16.15                      amd64        Debian package management system
-ii  dpkg-dev                            1.16.15                      all          Debian package development tools
+ii  dpkg-dev                            1.16.16                      all          Debian package development tools
 ii  e2fslibs:amd64                      1.42.5-1.1                   amd64        ext2/ext3/ext4 file system libraries
 ii  e2fsprogs                           1.42.5-1.1                   amd64        ext2/ext3/ext4 file system utilities
 ii  eatmydata                           26-2                         amd64        library and utilities designed to disable fsync and friends
@@ -120,7 +120,7 @@ ii  libclass-isa-perl                   0.36-3                       all        
 ii  libcomerr2:amd64                    1.42.5-1.1                   amd64        common error description library
 ii  libcroco3:amd64                     0.6.6-2                      amd64        Cascading Style Sheet (CSS) parsing and manipulation toolkit
 ii  libcrypto++9                        5.6.1-6                      amd64        General purpose cryptographic library - shared library
-ii  libcurl3-gnutls:amd64               7.26.0-1+wheezy12            amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii  libcurl3-gnutls:amd64               7.26.0-1+wheezy13            amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii  libcwidget3                         0.5.16-3.4                   amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdb5.1:amd64                      5.1.29-5                     amd64        Berkeley v5.1 Database Libraries [runtime]
 ii  libdbus-1-3:amd64                   1.6.8-1+deb7u6               amd64        simple interprocess messaging system (library)
@@ -128,7 +128,7 @@ ii  libdbus-glib-1-2:amd64              0.100.2-1                    amd64      
 ii  libdevmapper-event1.02.1:amd64      2:1.02.74-8                  amd64        Linux Kernel Device Mapper event support library
 ii  libdevmapper1.02.1:amd64            2:1.02.74-8                  amd64        Linux Kernel Device Mapper userspace library
 ii  libdirectfb-1.2-9:amd64             1.2.10.0-5                   amd64        direct frame buffer graphics - shared libraries
-ii  libdpkg-perl                        1.16.15                      all          Dpkg perl modules
+ii  libdpkg-perl                        1.16.16                      all          Dpkg perl modules
 ii  libedit2:amd64                      2.11-20080614-5              amd64        BSD editline and history libraries
 ii  libept1.4.12                        1.0.9                        amd64        High-level library for managing Debian package information
 ii  libexpat1-dev                       2.1.0-1+deb7u1               amd64        XML parsing C library - development kit
@@ -175,7 +175,7 @@ ii  libmagic1:amd64                     5.11-2+deb7u8                amd64      
 ii  libmount1                           2.20.1-5.3                   amd64        block device id library
 ii  libmpc2:amd64                       0.9-4                        amd64        multiple precision complex floating-point library
 ii  libmpfr4:amd64                      3.1.0-5                      amd64        multiple precision floating-point computation
-ii  libmysqlclient18:amd64              5.5.41-0+wheezy1             amd64        MySQL database client library
+ii  libmysqlclient18:amd64              5.5.43-0+deb7u1              amd64        MySQL database client library
 ii  libncurses5:amd64                   5.9-10                       amd64        shared libraries for terminal handling
 ii  libncursesw5:amd64                  5.9-10                       amd64        shared libraries for terminal handling (wide character support)
 ii  libnetcf1                           0.1.9-2                      amd64        cross-platform network configuration library
@@ -270,7 +270,7 @@ ii  libvorbisenc2:amd64                 1.3.2-1.3                    amd64      
 ii  libwrap0:amd64                      7.6.q-24                     amd64        Wietse Venema's TCP wrappers library
 ii  libx11-6:amd64                      2:1.5.0-1+deb7u1             amd64        X11 client-side library
 ii  libx11-data                         2:1.5.0-1+deb7u1             all          X11 client-side library
-ii  libx11-xcb1:amd64                   2:1.5.0-1+deb7u1             amd64        Xlib/XCB interface library
+ii  libx11-xcb1:amd64                   2:1.5.0-1+deb7u2             amd64        Xlib/XCB interface library
 ii  libxapian22                         1.2.12-2                     amd64        Search engine library
 ii  libxau6:amd64                       1:1.0.7-1                    amd64        X11 authorisation library
 ii  libxcb1:amd64                       1.8.1-2+deb7u1               amd64        X C Binding
@@ -279,9 +279,9 @@ ii  libxen-4.1                          4.1.4-3+deb7u5               amd64      
 ii  libxenstore3.0:amd64                4.4.0-5~bpo70+1              amd64        Xenstore communications library for Xen
 ii  libxext6:amd64                      2:1.3.1-2+deb7u1             amd64        X11 miscellaneous extension library
 ii  libxi6:amd64                        2:1.6.1-1+deb7u1             amd64        X11 Input extension library
-ii  libxml2-dev:amd64                   2.8.0+dfsg1-7+wheezy3        amd64        Development files for the GNOME XML library
-ii  libxml2-utils                       2.8.0+dfsg1-7+wheezy3        amd64        XML utilities
-ii  libxml2:amd64                       2.8.0+dfsg1-7+wheezy3        amd64        GNOME XML library
+ii  libxml2-dev:amd64                   2.8.0+dfsg1-7+wheezy4        amd64        Development files for the GNOME XML library
+ii  libxml2-utils                       2.8.0+dfsg1-7+wheezy4        amd64        XML utilities
+ii  libxml2:amd64                       2.8.0+dfsg1-7+wheezy4        amd64        GNOME XML library
 ii  libxmlsec1                          1.2.18-2                     amd64        XML security library
 ii  libxmlsec1-openssl                  1.2.18-2                     amd64        Openssl engine for the XML security library
 ii  libxmuu1:amd64                      2:1.1.1-1                    amd64        X11 miscellaneous micro-utility library
@@ -309,7 +309,7 @@ ii  mongodb-dev                         1:2.4.8-2~bpo70+1            amd64      
 ii  mongodb-server                      1:2.4.8-2~bpo70+1            amd64        object/document-oriented database (server package)
 ii  mount                               2.20.1-5.3                   amd64        Tools for mounting and manipulating filesystems
 ii  multiarch-support                   2.13-38+deb7u6               amd64        Transitional package to ensure multiarch compatibility
-ii  mysql-common                        5.5.41-0+wheezy1             all          MySQL database common files, e.g. /etc/mysql/my.cnf
+ii  mysql-common                        5.5.43-0+deb7u1              all          MySQL database common files, e.g. /etc/mysql/my.cnf
 ii  nano                                2.2.6-1+b1                   amd64        small, friendly text editor inspired by Pico
 ii  ncurses-base                        5.9-10                       all          basic terminal type definitions
 ii  ncurses-bin                         5.9-10                       amd64        terminal-related programs and man pages

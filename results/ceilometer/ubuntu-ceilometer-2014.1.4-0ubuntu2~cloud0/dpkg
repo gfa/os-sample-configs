@@ -1,0 +1,11 @@
+ii  python-ceilometerclient          1.0.8-0ubuntu1~cloud0               Client library for Openstack ceilometer server.
+ii  python-librabbitmq               1.0.3-0ubuntu1~cloud0               AMQP Client using the rabbitmq-c library
+ii  python-libvirt                   1.2.2-0ubuntu2~cloud0               libvirt Python bindings
+ii  python-oslo.config               1:1.2.1-0ubuntu2~cloud0             Common code for Openstack Projects (configuration API)
+ii  python-oslo.messaging            1.3.0-0ubuntu1~cloud0               oslo messaging library
+ii  python-oslo.rootwrap             1.2.0-0ubuntu1~cloud0               Fine filtering of shell commands as 'root'
+ii  python-oslo.sphinx               2.0-0ubuntu2~cloud0                 oslo.sphinx transitional dummy package
+ii  python-oslosphinx                2.0-0ubuntu2~cloud0                 theme and extension support for openstack
+ii  python-oslotest                  0.1-1ubuntu3~cloud0                 OpenStack test framework - Python 2.x
+ii  python-qpid                      0.12-2                              Python bindings for qpid/mlib
+ii  python-zmq                       2.1.11-1                            Python bindings for 0MQ library
