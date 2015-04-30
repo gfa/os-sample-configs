@@ -95,7 +95,7 @@ for daemon in ${DAEMONS}
         mkdir -p /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS
         bash tools/config/generate_sample.sh -b . -p $daemon -o /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS
         dpkg -l | sort | grep -e $daemon -e oslo -e python-libvirt -e python-qpid -e python-zmq -e python-librabbitmq > /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS/dpkg
-        dpkg -l | sort > /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS/dpkg-full
+        dpkg -l | sort > /storage/tmp/$daemon/$RELEASE-$daemon-$VERSION-$DEBVERS/dpkg-full
         cd $TEMP
 done
 
