@@ -20,6 +20,7 @@ sudo cp -r config-gen.${RELEASE}.base config-gen
 
 sudo cp -f $OLDPWD/gplhost.gpg config-gen/etc/apt/trusted.gpg.d/
 sudo cp -f $OLDPWD/cloud-archive.gpg config-gen/etc/apt/trusted.gpg.d/
+sudo cp -f $OLDPWD/mirantis-jk.gpg config-gen/etc/apt/trusted.gpg.d/
 
 sudo cp -f $OLDPWD/config-gen.sh config-gen/config-gen.sh
 sudo chmod 755 config-gen/config-gen.sh
