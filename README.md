@@ -1,3 +1,11 @@
+KILO NOTE:
+==========
+
+
+i'm working on get this process working with kilo, sample config file process
+has been changed so it needs to be updated but i haven't found time to do it.
+
+
 SAMPLE CONFIG FILES FOR OPENSTACK
 =================================
 

@@ -96,7 +96,7 @@ EOF
 	deb-src [arch=amd64] http://$APT_MIRROR/zigo-jk jessie-kilo-backports-nochange main
 	deb-src [arch=amd64] http://$APT_MIRROR/zigo-jk jessie-kilo-backports main
 EOF
-extras='ceilometer-common'
+extras='ceilometer-common python-tox'
     fi
 fi
 
@@ -113,7 +113,9 @@ for daemon in ${DAEMONS}
         DEBVERS=`dpkg-parsechangelog | sed -n -e 's/^Version: //p' | awk -F - '{print $2}' `
         VERSION=`dpkg-parsechangelog | sed -n -e 's/^Version: //p' | awk -F - '{print $1}' `
         mkdir -p /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS
-        bash tools/config/generate_sample.sh -b . -p $daemon -o /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS
+        bash tools/config/generate_sample.sh -b . -p $daemon -o /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS || true
+	oslo-config-generator 
+	tox sample_config
         dpkg -l | sort | grep -e $daemon -e oslo -e python-libvirt -e python-qpid -e python-zmq -e python-librabbitmq > /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS/dpkg
         dpkg -l | sort > /storage/tmp/$daemon/$DISTRIB-$daemon-$VERSION-$DEBVERS/dpkg-full
         cd $TEMP
